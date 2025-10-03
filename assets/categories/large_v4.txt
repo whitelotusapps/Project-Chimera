@@ -1,0 +1,115 @@
+Address
+Administrative Geographic Area
+Age
+Ailment
+Angel Number
+Animal
+Art
+Belief
+Beverage
+Brand
+Building
+City
+College
+Company
+Concert
+Condition
+Country
+County
+Cultural Event
+Currency
+Date
+Date Range
+DateTime
+Device
+Dimensions
+Disturbance
+Document
+Duration
+Education
+Elementary School
+Email
+Email Address
+Entertainment
+Event
+Extended Geography
+Facilitiy
+Family
+Financial Organization
+Foe
+Food
+Friend
+Fun
+Geographical Location
+Geopolitical
+Geopolitical Entity
+High School
+Hours
+Idiology
+Illness
+IP
+Island
+Jurisdiction
+Law
+Law
+Legal
+Legal Entity
+Location
+Marijuana
+Mass media
+Measure
+Medical Organization
+Medicine
+Mental Health
+Mental Illness
+Middle School
+Money
+Movie
+Natural Event
+Need
+Number
+Ordinal
+Organization
+Percentage
+Performance
+Person
+PersonType
+Phone number
+PhoneNumber
+Physical Geographic Feature
+Physical Phenomena
+Play
+Pleasure
+Product
+Profession
+Religion
+Restaurant
+Role
+Satisfaction
+School
+Season
+Set
+Skill
+Social Media
+Song
+Sports Event
+Sports Organizastion
+State
+Stock Exchange
+Structure
+Temperature
+Time
+Time Range
+Time Zone
+Title
+Topic
+TV Show
+Type
+University
+URL
+Vehicle
+Want
+Weather
+Web address
+Work
+Work of human intelligence

@@ -1,0 +1,42 @@
+question,category,query_type,tag
+"Which sentence best describes a state of transition, liminality, or 'in-betweenness'?",Process,extractive_quote,process.transformation
+Which phrase in this text best describes an internal conflict or a moment of self-judgment?,Psychological,extractive_quote,psych.shadow
+Which sentence reveals the embodiment of the 'Wounded Healer' archetype?,Psychological,extractive_quote,psych.archetype.wounded_healer
+Which sentence reveals the embodiment of the 'Sovereign' archetype?,Psychological,extractive_quote,psych.archetype.sovereign
+Which sentence reveals the embodiment of the 'Diogenes' archetype?,Psychological,extractive_quote,psych.archetype.diogenes
+Which sentence reveals the embodiment of the 'Father' archetype?,Psychological,extractive_quote,psych.archetype.father
+"What sentence makes a statement about the fundamental nature of reality, consciousness, or the universe?",Philosophical,extractive_quote,phil.ontology
+"What sentence describes a way of knowing, learning, or an epistemological stance?",Philosophical,extractive_quote,phil.epistemology
+Which sentence demonstrates a Hermetic principle in action?,Philosophical,extractive_quote,phil.hermetic_praxis
+Which sentence demonstrates a Buddhist principle in action?,Philosophical,extractive_quote,phil.buddhist_praxis
+Which sentence demonstrates a Tantric principle in action?,Philosophical,extractive_quote,phil.tantric_praxis
+Which sentence demonstrates a Jungian principle in action?,Philosophical,extractive_quote,phil.jungian_praxis
+What sentence shows the author acting as the 'Gatekeeper of Meaning' by consciously choosing an interpretation of an event?,Operational,extractive_quote,op.gatekeeper_of_meaning
+Which sentence describes a 'Recursive Inquiry' or a process of deconstructing a belief?,Operational,extractive_quote,op.recursive_inquiry
+Which sentence reveals the author setting or enforcing a personal boundary?,Operational,extractive_quote,op.praxis.boundary_setting
+Which sentence describes an act of conscious emotional regulation?,Operational,extractive_quote,op.praxis.regulation
+Which part of this text demonstrates the process of transmuting a negative experience into wisdom?,Operational,extractive_quote,op.praxis.transmutation
+Which sentence describes a somatic or 'felt sense' experience in the body?,Somatic,extractive_quote,somatic.felt_sense
+Does this text carry a high or low energetic tone?,Somatic,conceptual_flag,somatic.energetic_charge
+"Who is the 'other' in this text, and what sentence best frames the relationship to them?",Relational,extractive_quote,rel.the_other
+"Does this text describe a state of agency, sovereignty, or a choice made?",Sovereignty,conceptual_flag,sovereignty.agency
+"Does this text reflect upon the author's own thinking, beliefs, or language?",Meta,conceptual_flag,meta.self_reflection
+"Does this text contain an act of deconstructing an existing concept, word, or system?",Meta,conceptual_flag,meta.deconstruction
+"Does this text contain an act of architecting a new model, framework, or solution?",Meta,conceptual_flag,meta.architecting
+Does this text contain an act of teaching or an intention to share wisdom?,Meta,conceptual_flag,meta.teaching
+"Does this text demonstrate an interaction with a non-human intelligence (AI, the Universe, etc.)?",Meta,conceptual_flag,meta.interface.non_human
+Does this text contain a 'Linguistic Refactoring'—a conscious choice to change language?,Meta,conceptual_flag,meta.linguistic_refactoring
+"List all named entities (People, Places, Organizations) in this text.",Factual,entity_list,fact.named_entities
+Which sentence in this text describes the physical location or environment of the speaker?,Factual,extractive_quote,fact.location
+What dates or specific times are mentioned in this text?,Factual,entity_extraction,fact.datetime
+Which sentence in this text articulates a core belief or a statement of personal truth?,Philosophical,extractive_quote,phil.belief_statement
+"Which sentence describes a source of emotional disturbance, conflict, or pain?",Psychological,extractive_quote,psych.disturbance_source
+What core desire or need is being expressed in this text?,Psychological,extractive_quote,psych.core_desire
+"Which sentence describes an experience of pleasure, excitement, or profound safety?",Psychological,extractive_quote,psych.positive_experience
+"Which sentences describe an interaction within a key relationship (e.g., family, partner, child)?",Relational,extractive_quote,rel.key_interaction
+Does this text describe an action or state of personal agency or sovereignty?,Sovereignty,conceptual_flag,sovereignty.agency
+Does this text describe a direct somatic or 'felt sense' experience in the body?,Somatic,conceptual_flag,somatic.felt_sense
+Which sentence best describes the author's process of 'working with' or 'transmuting' a difficult energy or experience?,Operational,extractive_quote,op.praxis.transmutation
+What feelings are expressed in this text?,Psychological,extractive_quote,psych.feelings
+What actions are taking place in this text?,Factual,extractive_quote,fact.actions
+What causes are in this text?,Factual,extractive_quote,fact.causes

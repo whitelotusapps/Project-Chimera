@@ -1,0 +1,470 @@
+L1_Natal_house	L2_Natal_House	L3_Natal_House	L4_Natal_House	L1_Sign	L2_Sign	L3_Sign	L4_Sign	Month	Day	Year	Duration	LOB_Type
+10	12	12	5	Cancer	Virgo	Virgo	Aquarius	1	1	2025	2400	
+10	12	12	5	Cancer	Virgo	Virgo	Aquarius	1	2	2025	2400	
+10	12	12	5	Cancer	Virgo	Virgo	Aquarius	1	3	2025	2400	
+10	12	12	5	Cancer	Virgo	Virgo	Aquarius	1	4	2025	2400	
+10	12	12	5	Cancer	Virgo	Virgo	Aquarius	1	5	2025	1524	
+10	12	12	6	Cancer	Virgo	Virgo	Pisces	1	5	2025	936	
+10	12	12	6	Cancer	Virgo	Virgo	Pisces	1	6	2025	2400	
+10	12	12	6	Cancer	Virgo	Virgo	Pisces	1	7	2025	2400	
+10	12	12	6	Cancer	Virgo	Virgo	Pisces	1	8	2025	324	
+10	12	12	7	Cancer	Virgo	Virgo	Aries	1	8	2025	2136	
+10	12	12	7	Cancer	Virgo	Virgo	Aries	1	9	2025	2400	
+10	12	12	7	Cancer	Virgo	Virgo	Aries	1	10	2025	2400	
+10	12	12	7	Cancer	Virgo	Virgo	Aries	1	11	2025	624	
+10	12	12	8	Cancer	Virgo	Virgo	Taurus	1	11	2025	1836	
+10	12	12	8	Cancer	Virgo	Virgo	Taurus	1	12	2025	2224	
+10	12	12	9	Cancer	Virgo	Virgo	Gemini	1	12	2025	236	
+10	12	12	9	Cancer	Virgo	Virgo	Gemini	1	13	2025	2400	
+10	12	12	9	Cancer	Virgo	Virgo	Gemini	1	14	2025	2400	
+10	12	12	9	Cancer	Virgo	Virgo	Gemini	1	15	2025	2400	
+10	12	12	9	Cancer	Virgo	Virgo	Gemini	1	16	2025	2400	
+10	12	12	9	Cancer	Virgo	Virgo	Gemini	1	17	2025	224	
+10	12	12	10	Cancer	Virgo	Virgo	Cancer	1	17	2025	2236	
+10	12	12	10	Cancer	Virgo	Virgo	Cancer	1	18	2025	2400	
+10	12	12	10	Cancer	Virgo	Virgo	Cancer	1	19	2025	2400	
+10	12	12	10	Cancer	Virgo	Virgo	Cancer	1	20	2025	2400	
+10	12	12	10	Cancer	Virgo	Virgo	Cancer	1	21	2025	2400	
+10	12	12	10	Cancer	Virgo	Virgo	Cancer	1	22	2025	724	
+10	12	12	11	Cancer	Virgo	Virgo	Leo	1	22	2025	1736	
+10	12	12	11	Cancer	Virgo	Virgo	Leo	1	23	2025	2400	
+10	12	12	11	Cancer	Virgo	Virgo	Leo	1	24	2025	2400	
+10	12	12	11	Cancer	Virgo	Virgo	Leo	1	25	2025	2400	
+10	12	12	11	Cancer	Virgo	Virgo	Leo	1	26	2025	624	
+10	12	6	6	Cancer	Virgo	Pisces	Pisces	1	26	2025	1836	MN_LB
+10	12	6	6	Cancer	Virgo	Pisces	Pisces	1	27	2025	2400	MN_LB
+10	12	6	6	Cancer	Virgo	Pisces	Pisces	1	28	2025	1824	MN_LB
+10	12	6	7	Cancer	Virgo	Pisces	Aries	1	28	2025	636	MN_LB
+10	12	6	7	Cancer	Virgo	Pisces	Aries	1	29	2025	2400	MN_LB
+10	12	6	7	Cancer	Virgo	Pisces	Aries	1	30	2025	2400	MN_LB
+10	12	6	7	Cancer	Virgo	Pisces	Aries	1	31	2025	2124	MN_LB
+10	12	6	8	Cancer	Virgo	Pisces	Taurus	1	31	2025	336	MN_LB
+10	12	6	8	Cancer	Virgo	Pisces	Taurus	2	1	2025	724	MN_LB
+10	12	1	1	Cancer	Virgo	Libra	Libra	2	1	2025	1736	
+10	12	1	1	Cancer	Virgo	Libra	Libra	2	2	2025	2324	
+10	12	1	2	Cancer	Virgo	Libra	Scorpio	2	2	2025	136	
+10	12	1	2	Cancer	Virgo	Libra	Scorpio	2	3	2025	2400	
+10	12	1	2	Cancer	Virgo	Libra	Scorpio	2	4	2025	2400	
+10	12	1	2	Cancer	Virgo	Libra	Scorpio	2	5	2025	2400	
+10	12	1	2	Cancer	Virgo	Libra	Scorpio	2	6	2025	224	
+10	12	1	3	Cancer	Virgo	Libra	Sagittarius	2	6	2025	2236	
+10	12	1	3	Cancer	Virgo	Libra	Sagittarius	2	7	2025	2400	
+10	12	1	3	Cancer	Virgo	Libra	Sagittarius	2	8	2025	1424	
+10	12	1	4	Cancer	Virgo	Libra	Capricorn	2	8	2025	1036	
+10	12	1	4	Cancer	Virgo	Libra	Capricorn	2	9	2025	2400	
+10	12	1	4	Cancer	Virgo	Libra	Capricorn	2	10	2025	2400	
+10	12	1	4	Cancer	Virgo	Libra	Capricorn	2	11	2025	2400	
+10	12	1	4	Cancer	Virgo	Libra	Capricorn	2	12	2025	2400	
+10	12	1	4	Cancer	Virgo	Libra	Capricorn	2	13	2025	2400	
+10	12	1	4	Cancer	Virgo	Libra	Capricorn	2	14	2025	524	
+10	12	1	5	Cancer	Virgo	Libra	Aquarius	2	14	2025	1936	
+10	12	1	5	Cancer	Virgo	Libra	Aquarius	2	15	2025	2400	
+10	12	1	5	Cancer	Virgo	Libra	Aquarius	2	16	2025	2400	
+10	12	1	5	Cancer	Virgo	Libra	Aquarius	2	17	2025	2400	
+10	12	1	5	Cancer	Virgo	Libra	Aquarius	2	18	2025	2400	
+10	12	1	5	Cancer	Virgo	Libra	Aquarius	2	19	2025	2400	
+10	12	1	5	Cancer	Virgo	Libra	Aquarius	2	20	2025	1124	
+10	12	1	6	Cancer	Virgo	Libra	Pisces	2	20	2025	1336	
+10	12	1	6	Cancer	Virgo	Libra	Pisces	2	21	2025	724	
+10	12	2	2	Cancer	Virgo	Scorpio	Scorpio	2	21	2025	1736	
+10	12	2	2	Cancer	Virgo	Scorpio	Scorpio	2	22	2025	2400	
+10	12	2	2	Cancer	Virgo	Scorpio	Scorpio	2	23	2025	2400	
+10	12	2	2	Cancer	Virgo	Scorpio	Scorpio	2	24	2025	1024	
+10	12	2	3	Cancer	Virgo	Scorpio	Sagittarius	2	24	2025	1436	
+10	12	2	3	Cancer	Virgo	Scorpio	Sagittarius	2	25	2025	2400	
+10	12	2	3	Cancer	Virgo	Scorpio	Sagittarius	2	26	2025	2224	
+10	12	2	4	Cancer	Virgo	Scorpio	Capricorn	2	26	2025	236	
+10	12	2	4	Cancer	Virgo	Scorpio	Capricorn	2	27	2025	2400	
+10	12	2	4	Cancer	Virgo	Scorpio	Capricorn	2	28	2025	2400	
+10	12	2	4	Cancer	Virgo	Scorpio	Capricorn	3	1	2025	2400	
+10	12	2	4	Cancer	Virgo	Scorpio	Capricorn	3	2	2025	2400	
+10	12	2	4	Cancer	Virgo	Scorpio	Capricorn	3	3	2025	2400	
+10	12	2	4	Cancer	Virgo	Scorpio	Capricorn	3	4	2025	1324	
+10	12	2	5	Cancer	Virgo	Scorpio	Aquarius	3	4	2025	1136	
+10	12	2	5	Cancer	Virgo	Scorpio	Aquarius	3	5	2025	2400	
+10	12	2	5	Cancer	Virgo	Scorpio	Aquarius	3	6	2025	2400	
+10	12	2	5	Cancer	Virgo	Scorpio	Aquarius	3	7	2025	2400	
+10	12	2	5	Cancer	Virgo	Scorpio	Aquarius	3	8	2025	2400	
+10	12	2	5	Cancer	Virgo	Scorpio	Aquarius	3	9	2025	2400	
+10	12	2	5	Cancer	Virgo	Scorpio	Aquarius	3	10	2025	1924	
+10	12	2	6	Cancer	Virgo	Scorpio	Pisces	3	10	2025	536	
+10	12	2	6	Cancer	Virgo	Scorpio	Pisces	3	11	2025	2400	
+10	12	2	6	Cancer	Virgo	Scorpio	Pisces	3	12	2025	2400	
+10	12	2	6	Cancer	Virgo	Scorpio	Pisces	3	13	2025	724	
+10	12	2	7	Cancer	Virgo	Scorpio	Aries	3	13	2025	1736	
+10	12	2	7	Cancer	Virgo	Scorpio	Aries	3	14	2025	2400	
+10	12	2	7	Cancer	Virgo	Scorpio	Aries	3	15	2025	2400	
+10	12	2	7	Cancer	Virgo	Scorpio	Aries	3	16	2025	1024	
+10	12	2	8	Cancer	Virgo	Scorpio	Taurus	3	16	2025	1436	
+10	12	2	8	Cancer	Virgo	Scorpio	Taurus	3	17	2025	2400	
+10	12	2	8	Cancer	Virgo	Scorpio	Taurus	3	18	2025	224	
+10	12	2	9	Cancer	Virgo	Scorpio	Gemini	3	18	2025	2236	
+10	12	2	9	Cancer	Virgo	Scorpio	Gemini	3	19	2025	2400	
+10	12	2	9	Cancer	Virgo	Scorpio	Gemini	3	20	2025	2400	
+10	12	2	9	Cancer	Virgo	Scorpio	Gemini	3	21	2025	2400	
+10	12	2	9	Cancer	Virgo	Scorpio	Gemini	3	22	2025	624	
+10	12	2	10	Cancer	Virgo	Scorpio	Cancer	3	22	2025	1836	
+10	12	2	10	Cancer	Virgo	Scorpio	Cancer	3	23	2025	2400	
+10	12	2	10	Cancer	Virgo	Scorpio	Cancer	3	24	2025	2400	
+10	12	2	10	Cancer	Virgo	Scorpio	Cancer	3	25	2025	2400	
+10	12	2	10	Cancer	Virgo	Scorpio	Cancer	3	26	2025	2400	
+10	12	2	10	Cancer	Virgo	Scorpio	Cancer	3	27	2025	1124	
+10	12	2	11	Cancer	Virgo	Scorpio	Leo	3	27	2025	1336	
+10	12	2	11	Cancer	Virgo	Scorpio	Leo	3	28	2025	2400	
+10	12	2	11	Cancer	Virgo	Scorpio	Leo	3	29	2025	2400	
+10	12	2	11	Cancer	Virgo	Scorpio	Leo	3	30	2025	1924	
+10	12	3	3	Cancer	Virgo	Sagittarius	Sagittarius	3	30	2025	536	
+10	12	3	3	Cancer	Virgo	Sagittarius	Sagittarius	3	31	2025	2400	
+10	12	3	3	Cancer	Virgo	Sagittarius	Sagittarius	4	1	2025	2400	
+10	12	3	3	Cancer	Virgo	Sagittarius	Sagittarius	4	2	2025	724	
+10	12	3	4	Cancer	Virgo	Sagittarius	Capricorn	4	2	2025	1736	
+10	12	3	4	Cancer	Virgo	Sagittarius	Capricorn	4	3	2025	2400	
+10	12	3	4	Cancer	Virgo	Sagittarius	Capricorn	4	4	2025	2400	
+10	12	3	4	Cancer	Virgo	Sagittarius	Capricorn	4	5	2025	2400	
+10	12	3	4	Cancer	Virgo	Sagittarius	Capricorn	4	6	2025	2400	
+10	12	3	4	Cancer	Virgo	Sagittarius	Capricorn	4	7	2025	2224	
+10	12	3	5	Cancer	Virgo	Sagittarius	Aquarius	4	7	2025	236	
+10	12	3	5	Cancer	Virgo	Sagittarius	Aquarius	4	8	2025	2400	
+10	12	3	5	Cancer	Virgo	Sagittarius	Aquarius	4	9	2025	2400	
+10	12	3	5	Cancer	Virgo	Sagittarius	Aquarius	4	10	2025	2400	
+10	12	3	5	Cancer	Virgo	Sagittarius	Aquarius	4	11	2025	2400	
+10	12	3	5	Cancer	Virgo	Sagittarius	Aquarius	4	12	2025	2400	
+10	12	3	5	Cancer	Virgo	Sagittarius	Aquarius	4	13	2025	2400	
+10	12	3	5	Cancer	Virgo	Sagittarius	Aquarius	4	14	2025	424	
+10	12	3	6	Cancer	Virgo	Sagittarius	Pisces	4	14	2025	2036	
+10	12	3	6	Cancer	Virgo	Sagittarius	Pisces	4	15	2025	2400	
+10	12	3	6	Cancer	Virgo	Sagittarius	Pisces	4	16	2025	1624	
+10	12	3	7	Cancer	Virgo	Sagittarius	Aries	4	16	2025	836	
+10	12	3	7	Cancer	Virgo	Sagittarius	Aries	4	17	2025	2400	
+10	12	3	7	Cancer	Virgo	Sagittarius	Aries	4	18	2025	2400	
+10	12	3	7	Cancer	Virgo	Sagittarius	Aries	4	19	2025	1924	
+10	12	3	8	Cancer	Virgo	Sagittarius	Taurus	4	19	2025	536	
+10	12	3	8	Cancer	Virgo	Sagittarius	Taurus	4	20	2025	2400	
+10	12	3	8	Cancer	Virgo	Sagittarius	Taurus	4	21	2025	1124	
+10	12	3	9	Cancer	Virgo	Sagittarius	Gemini	4	21	2025	1336	
+10	12	3	9	Cancer	Virgo	Sagittarius	Gemini	4	22	2025	2400	
+10	12	3	9	Cancer	Virgo	Sagittarius	Gemini	4	23	2025	2400	
+10	12	3	9	Cancer	Virgo	Sagittarius	Gemini	4	24	2025	2400	
+10	12	3	9	Cancer	Virgo	Sagittarius	Gemini	4	25	2025	1524	
+10	12	3	10	Cancer	Virgo	Sagittarius	Cancer	4	25	2025	936	
+10	12	3	10	Cancer	Virgo	Sagittarius	Cancer	4	26	2025	2400	
+10	12	3	10	Cancer	Virgo	Sagittarius	Cancer	4	27	2025	2400	
+10	12	3	10	Cancer	Virgo	Sagittarius	Cancer	4	28	2025	2400	
+10	12	3	10	Cancer	Virgo	Sagittarius	Cancer	4	29	2025	1924	
+10	12	4	4	Cancer	Virgo	Capricorn	Capricorn	4	29	2025	536	
+10	12	4	4	Cancer	Virgo	Capricorn	Capricorn	4	30	2025	2400	
+10	12	4	4	Cancer	Virgo	Capricorn	Capricorn	5	1	2025	2400	
+10	12	4	4	Cancer	Virgo	Capricorn	Capricorn	5	2	2025	2400	
+10	12	4	4	Cancer	Virgo	Capricorn	Capricorn	5	3	2025	2400	
+10	12	4	4	Cancer	Virgo	Capricorn	Capricorn	5	4	2025	2400	
+10	12	4	4	Cancer	Virgo	Capricorn	Capricorn	5	5	2025	1024	
+10	12	4	5	Cancer	Virgo	Capricorn	Aquarius	5	5	2025	1436	
+10	12	4	5	Cancer	Virgo	Capricorn	Aquarius	5	6	2025	2400	
+10	12	4	5	Cancer	Virgo	Capricorn	Aquarius	5	7	2025	2400	
+10	12	4	5	Cancer	Virgo	Capricorn	Aquarius	5	8	2025	2400	
+10	12	4	5	Cancer	Virgo	Capricorn	Aquarius	5	9	2025	2400	
+10	12	4	5	Cancer	Virgo	Capricorn	Aquarius	5	10	2025	2400	
+10	12	4	5	Cancer	Virgo	Capricorn	Aquarius	5	11	2025	1624	
+10	12	4	6	Cancer	Virgo	Capricorn	Pisces	5	11	2025	836	
+10	12	4	6	Cancer	Virgo	Capricorn	Pisces	5	12	2025	2400	
+10	12	4	6	Cancer	Virgo	Capricorn	Pisces	5	13	2025	2400	
+10	12	4	6	Cancer	Virgo	Capricorn	Pisces	5	14	2025	424	
+10	12	4	7	Cancer	Virgo	Capricorn	Aries	5	14	2025	2036	
+10	12	4	7	Cancer	Virgo	Capricorn	Aries	5	15	2025	2400	
+10	12	4	7	Cancer	Virgo	Capricorn	Aries	5	16	2025	2400	
+10	12	4	7	Cancer	Virgo	Capricorn	Aries	5	17	2025	724	
+10	12	4	8	Cancer	Virgo	Capricorn	Taurus	5	17	2025	1736	
+10	12	4	8	Cancer	Virgo	Capricorn	Taurus	5	18	2025	2324	
+10	12	4	9	Cancer	Virgo	Capricorn	Gemini	5	18	2025	136	
+10	12	4	9	Cancer	Virgo	Capricorn	Gemini	5	19	2025	2400	
+10	12	4	9	Cancer	Virgo	Capricorn	Gemini	5	20	2025	2400	
+10	12	4	9	Cancer	Virgo	Capricorn	Gemini	5	21	2025	2400	
+10	12	4	9	Cancer	Virgo	Capricorn	Gemini	5	22	2025	2400	
+10	12	4	9	Cancer	Virgo	Capricorn	Gemini	5	23	2025	324	
+10	12	4	10	Cancer	Virgo	Capricorn	Cancer	5	23	2025	2136	
+10	12	4	10	Cancer	Virgo	Capricorn	Cancer	5	24	2025	2400	
+10	12	4	10	Cancer	Virgo	Capricorn	Cancer	5	25	2025	2400	
+10	12	4	10	Cancer	Virgo	Capricorn	Cancer	5	26	2025	2400	
+10	12	4	10	Cancer	Virgo	Capricorn	Cancer	5	27	2025	2400	
+10	12	4	10	Cancer	Virgo	Capricorn	Cancer	5	28	2025	824	
+10	12	4	11	Cancer	Virgo	Capricorn	Leo	5	28	2025	1636	
+10	12	4	11	Cancer	Virgo	Capricorn	Leo	5	29	2025	2400	
+10	12	4	11	Cancer	Virgo	Capricorn	Leo	5	30	2025	2400	
+10	12	4	11	Cancer	Virgo	Capricorn	Leo	5	31	2025	2400	
+10	12	4	11	Cancer	Virgo	Capricorn	Leo	6	1	2025	724	
+10	12	4	12	Cancer	Virgo	Capricorn	Virgo	6	1	2025	1736	
+10	12	4	12	Cancer	Virgo	Capricorn	Virgo	6	2	2025	2400	
+10	12	4	12	Cancer	Virgo	Capricorn	Virgo	6	3	2025	2400	
+10	12	4	12	Cancer	Virgo	Capricorn	Virgo	6	4	2025	2400	
+10	12	4	12	Cancer	Virgo	Capricorn	Virgo	6	5	2025	1124	
+10	12	4	1	Cancer	Virgo	Capricorn	Libra	6	5	2025	1336	
+10	12	4	1	Cancer	Virgo	Capricorn	Libra	6	6	2025	2400	
+10	12	4	1	Cancer	Virgo	Capricorn	Libra	6	7	2025	324	
+10	12	4	2	Cancer	Virgo	Capricorn	Scorpio	6	7	2025	2136	
+10	12	4	2	Cancer	Virgo	Capricorn	Scorpio	6	8	2025	2400	
+10	12	4	2	Cancer	Virgo	Capricorn	Scorpio	6	9	2025	2400	
+10	12	4	2	Cancer	Virgo	Capricorn	Scorpio	6	10	2025	624	
+10	12	4	3	Cancer	Virgo	Capricorn	Sagittarius	6	10	2025	1836	
+10	12	4	3	Cancer	Virgo	Capricorn	Sagittarius	6	11	2025	2400	
+10	12	4	3	Cancer	Virgo	Capricorn	Sagittarius	6	12	2025	1824	
+10	12	10	10	Cancer	Virgo	Cancer	Cancer	6	12	2025	636	MN_LB
+10	12	10	10	Cancer	Virgo	Cancer	Cancer	6	13	2025	2400	MN_LB
+10	12	10	10	Cancer	Virgo	Cancer	Cancer	6	14	2025	2400	MN_LB
+10	12	10	10	Cancer	Virgo	Cancer	Cancer	6	15	2025	2400	MN_LB
+10	12	10	10	Cancer	Virgo	Cancer	Cancer	6	16	2025	2400	MN_LB
+10	12	10	10	Cancer	Virgo	Cancer	Cancer	6	17	2025	2324	MN_LB
+10	12	10	11	Cancer	Virgo	Cancer	Leo	6	17	2025	136	MN_LB
+10	12	10	11	Cancer	Virgo	Cancer	Leo	6	18	2025	2400	MN_LB
+10	12	10	11	Cancer	Virgo	Cancer	Leo	6	19	2025	2400	MN_LB
+10	12	10	11	Cancer	Virgo	Cancer	Leo	6	20	2025	2400	MN_LB
+10	12	10	11	Cancer	Virgo	Cancer	Leo	6	21	2025	2224	MN_LB
+10	12	10	12	Cancer	Virgo	Cancer	Virgo	6	21	2025	236	MN_LB
+10	12	10	12	Cancer	Virgo	Cancer	Virgo	6	22	2025	2400	MN_LB
+10	12	10	12	Cancer	Virgo	Cancer	Virgo	6	23	2025	2400	MN_LB
+10	12	10	12	Cancer	Virgo	Cancer	Virgo	6	24	2025	2400	MN_LB
+10	12	10	12	Cancer	Virgo	Cancer	Virgo	6	25	2025	2400	MN_LB
+10	12	10	12	Cancer	Virgo	Cancer	Virgo	6	26	2025	224	MN_LB
+10	12	10	1	Cancer	Virgo	Cancer	Libra	6	26	2025	2236	MN_LB
+10	12	10	1	Cancer	Virgo	Cancer	Libra	6	27	2025	1824	MN_LB
+10	12	10	2	Cancer	Virgo	Cancer	Scorpio	6	27	2025	636	MN_LB
+10	12	10	2	Cancer	Virgo	Cancer	Scorpio	6	28	2025	2400	MN_LB
+10	12	10	2	Cancer	Virgo	Cancer	Scorpio	6	29	2025	2400	MN_LB
+10	12	10	2	Cancer	Virgo	Cancer	Scorpio	6	30	2025	2124	MN_LB
+10	12	10	3	Cancer	Virgo	Cancer	Sagittarius	6	30	2025	336	MN_LB
+10	12	10	3	Cancer	Virgo	Cancer	Sagittarius	7	1	2025	2400	MN_LB
+10	12	10	3	Cancer	Virgo	Cancer	Sagittarius	7	2	2025	2400	MN_LB
+10	12	10	3	Cancer	Virgo	Cancer	Sagittarius	7	3	2025	924	MN_LB
+10	12	10	4	Cancer	Virgo	Cancer	Capricorn	7	3	2025	1536	MN_LB
+10	12	10	4	Cancer	Virgo	Cancer	Capricorn	7	4	2025	2400	MN_LB
+10	12	10	4	Cancer	Virgo	Cancer	Capricorn	7	5	2025	2400	MN_LB
+10	12	10	4	Cancer	Virgo	Cancer	Capricorn	7	6	2025	724	MN_LB
+10	12	5	5	Cancer	Virgo	Aquarius	Aquarius	7	6	2025	1736	
+10	12	5	5	Cancer	Virgo	Aquarius	Aquarius	7	7	2025	2400	
+10	12	5	5	Cancer	Virgo	Aquarius	Aquarius	7	8	2025	2400	
+10	12	5	5	Cancer	Virgo	Aquarius	Aquarius	7	9	2025	2400	
+10	12	5	5	Cancer	Virgo	Aquarius	Aquarius	7	10	2025	2400	
+10	12	5	5	Cancer	Virgo	Aquarius	Aquarius	7	11	2025	2400	
+10	12	5	5	Cancer	Virgo	Aquarius	Aquarius	7	12	2025	1324	
+10	12	5	6	Cancer	Virgo	Aquarius	Pisces	7	12	2025	1136	
+10	12	5	6	Cancer	Virgo	Aquarius	Pisces	7	13	2025	2400	
+10	12	5	6	Cancer	Virgo	Aquarius	Pisces	7	14	2025	2400	
+10	12	5	6	Cancer	Virgo	Aquarius	Pisces	7	15	2025	124	
+10	12	5	7	Cancer	Virgo	Aquarius	Aries	7	15	2025	2336	
+10	12	5	7	Cancer	Virgo	Aquarius	Aries	7	16	2025	2400	
+10	12	5	7	Cancer	Virgo	Aquarius	Aries	7	17	2025	2400	
+10	12	5	7	Cancer	Virgo	Aquarius	Aries	7	18	2025	424	
+10	12	5	8	Cancer	Virgo	Aquarius	Taurus	7	18	2025	2036	
+10	12	5	8	Cancer	Virgo	Aquarius	Taurus	7	19	2025	2024	
+10	12	5	9	Cancer	Virgo	Aquarius	Gemini	7	19	2025	436	
+10	12	5	9	Cancer	Virgo	Aquarius	Gemini	7	20	2025	2400	
+10	12	5	9	Cancer	Virgo	Aquarius	Gemini	7	21	2025	2400	
+10	12	5	9	Cancer	Virgo	Aquarius	Gemini	7	22	2025	2400	
+10	12	5	9	Cancer	Virgo	Aquarius	Gemini	7	23	2025	2400	
+10	12	5	9	Cancer	Virgo	Aquarius	Gemini	7	24	2025	24	
+10	12	5	10	Cancer	Virgo	Aquarius	Cancer	7	24	2025	2436	
+10	12	5	10	Cancer	Virgo	Aquarius	Cancer	7	25	2025	2400	
+10	12	5	10	Cancer	Virgo	Aquarius	Cancer	7	26	2025	2400	
+10	12	5	10	Cancer	Virgo	Aquarius	Cancer	7	27	2025	2400	
+10	12	5	10	Cancer	Virgo	Aquarius	Cancer	7	28	2025	2400	
+10	12	5	10	Cancer	Virgo	Aquarius	Cancer	7	29	2025	524	
+10	12	5	11	Cancer	Virgo	Aquarius	Leo	7	29	2025	1936	
+10	12	5	11	Cancer	Virgo	Aquarius	Leo	7	30	2025	2400	
+10	12	5	11	Cancer	Virgo	Aquarius	Leo	7	31	2025	2400	
+10	12	5	11	Cancer	Virgo	Aquarius	Leo	8	1	2025	2400	
+10	12	5	11	Cancer	Virgo	Aquarius	Leo	8	2	2025	424	
+10	12	5	12	Cancer	Virgo	Aquarius	Virgo	8	2	2025	2036	
+10	12	5	12	Cancer	Virgo	Aquarius	Virgo	8	3	2025	2400	
+10	12	5	12	Cancer	Virgo	Aquarius	Virgo	8	4	2025	2400	
+10	12	5	12	Cancer	Virgo	Aquarius	Virgo	8	5	2025	2400	
+10	12	5	12	Cancer	Virgo	Aquarius	Virgo	8	6	2025	824	
+10	12	5	1	Cancer	Virgo	Aquarius	Libra	8	6	2025	1636	
+10	12	5	1	Cancer	Virgo	Aquarius	Libra	8	7	2025	2400	
+10	12	5	1	Cancer	Virgo	Aquarius	Libra	8	8	2025	24	
+10	12	5	2	Cancer	Virgo	Aquarius	Scorpio	8	8	2025	2436	
+10	12	5	2	Cancer	Virgo	Aquarius	Scorpio	8	9	2025	2400	
+10	12	5	2	Cancer	Virgo	Aquarius	Scorpio	8	10	2025	2400	
+10	12	5	2	Cancer	Virgo	Aquarius	Scorpio	8	11	2025	324	
+10	12	5	3	Cancer	Virgo	Aquarius	Sagittarius	8	11	2025	2136	
+10	12	5	3	Cancer	Virgo	Aquarius	Sagittarius	8	12	2025	2400	
+10	12	5	3	Cancer	Virgo	Aquarius	Sagittarius	8	13	2025	1524	
+10	12	5	4	Cancer	Virgo	Aquarius	Capricorn	8	13	2025	936	
+10	12	5	4	Cancer	Virgo	Aquarius	Capricorn	8	14	2025	2400	
+10	12	5	4	Cancer	Virgo	Aquarius	Capricorn	8	15	2025	2400	
+10	12	5	4	Cancer	Virgo	Aquarius	Capricorn	8	16	2025	2400	
+10	12	5	4	Cancer	Virgo	Aquarius	Capricorn	8	17	2025	2400	
+10	12	5	4	Cancer	Virgo	Aquarius	Capricorn	8	18	2025	2400	
+10	12	5	4	Cancer	Virgo	Aquarius	Capricorn	8	19	2025	624	
+10	12	11	11	Cancer	Virgo	Leo	Leo	8	19	2025	1836	MN_LB
+10	12	11	11	Cancer	Virgo	Leo	Leo	8	20	2025	2400	MN_LB
+10	12	11	11	Cancer	Virgo	Leo	Leo	8	21	2025	2400	MN_LB
+10	12	11	11	Cancer	Virgo	Leo	Leo	8	22	2025	2400	MN_LB
+10	12	11	11	Cancer	Virgo	Leo	Leo	8	23	2025	524	MN_LB
+10	12	11	12	Cancer	Virgo	Leo	Virgo	8	23	2025	1936	MN_LB
+10	12	11	12	Cancer	Virgo	Leo	Virgo	8	24	2025	2400	MN_LB
+10	12	11	12	Cancer	Virgo	Leo	Virgo	8	25	2025	2400	MN_LB
+10	12	11	12	Cancer	Virgo	Leo	Virgo	8	26	2025	2400	MN_LB
+10	12	11	12	Cancer	Virgo	Leo	Virgo	8	27	2025	924	MN_LB
+10	12	11	1	Cancer	Virgo	Leo	Libra	8	27	2025	1536	MN_LB
+10	12	11	1	Cancer	Virgo	Leo	Libra	8	28	2025	2400	MN_LB
+10	12	11	1	Cancer	Virgo	Leo	Libra	8	29	2025	124	MN_LB
+10	12	11	2	Cancer	Virgo	Leo	Scorpio	8	29	2025	2336	MN_LB
+10	12	11	2	Cancer	Virgo	Leo	Scorpio	8	30	2025	2400	MN_LB
+10	12	11	2	Cancer	Virgo	Leo	Scorpio	8	31	2025	2400	MN_LB
+10	12	11	2	Cancer	Virgo	Leo	Scorpio	9	1	2025	424	MN_LB
+10	12	11	3	Cancer	Virgo	Leo	Sagittarius	9	1	2025	2036	MN_LB
+10	12	11	3	Cancer	Virgo	Leo	Sagittarius	9	2	2025	2400	MN_LB
+10	12	11	3	Cancer	Virgo	Leo	Sagittarius	9	3	2025	1624	MN_LB
+10	12	11	4	Cancer	Virgo	Leo	Capricorn	9	3	2025	836	MN_LB
+10	12	11	4	Cancer	Virgo	Leo	Capricorn	9	4	2025	2400	MN_LB
+10	12	11	4	Cancer	Virgo	Leo	Capricorn	9	5	2025	2400	MN_LB
+10	12	11	4	Cancer	Virgo	Leo	Capricorn	9	6	2025	2400	MN_LB
+10	12	11	4	Cancer	Virgo	Leo	Capricorn	9	7	2025	2400	MN_LB
+10	12	11	4	Cancer	Virgo	Leo	Capricorn	9	8	2025	2400	MN_LB
+10	12	11	4	Cancer	Virgo	Leo	Capricorn	9	9	2025	724	MN_LB
+10	12	11	5	Cancer	Virgo	Leo	Aquarius	9	9	2025	1736	MN_LB
+10	12	11	5	Cancer	Virgo	Leo	Aquarius	9	10	2025	2400	MN_LB
+10	12	11	5	Cancer	Virgo	Leo	Aquarius	9	11	2025	2400	MN_LB
+10	12	11	5	Cancer	Virgo	Leo	Aquarius	9	12	2025	2400	MN_LB
+10	12	11	5	Cancer	Virgo	Leo	Aquarius	9	13	2025	2400	MN_LB
+10	12	11	5	Cancer	Virgo	Leo	Aquarius	9	14	2025	2400	MN_LB
+10	12	11	5	Cancer	Virgo	Leo	Aquarius	9	15	2025	1324	MN_LB
+10	12	11	6	Cancer	Virgo	Leo	Pisces	9	15	2025	1136	MN_LB
+10	12	11	6	Cancer	Virgo	Leo	Pisces	9	16	2025	2400	MN_LB
+10	12	11	6	Cancer	Virgo	Leo	Pisces	9	17	2025	2400	MN_LB
+10	12	11	6	Cancer	Virgo	Leo	Pisces	9	18	2025	124	MN_LB
+10	12	11	7	Cancer	Virgo	Leo	Aries	9	18	2025	2336	MN_LB
+10	12	11	7	Cancer	Virgo	Leo	Aries	9	19	2025	724	MN_LB
+10	12	6	6	Cancer	Virgo	Pisces	Pisces	9	19	2025	1736	
+10	12	6	6	Cancer	Virgo	Pisces	Pisces	9	20	2025	2400	
+10	12	6	6	Cancer	Virgo	Pisces	Pisces	9	21	2025	1924	
+10	12	6	7	Cancer	Virgo	Pisces	Aries	9	21	2025	536	
+10	12	6	7	Cancer	Virgo	Pisces	Aries	9	22	2025	2400	
+10	12	6	7	Cancer	Virgo	Pisces	Aries	9	23	2025	2400	
+10	12	6	7	Cancer	Virgo	Pisces	Aries	9	24	2025	2224	
+10	12	6	8	Cancer	Virgo	Pisces	Taurus	9	24	2025	236	
+10	12	6	8	Cancer	Virgo	Pisces	Taurus	9	25	2025	2400	
+10	12	6	8	Cancer	Virgo	Pisces	Taurus	9	26	2025	1424	
+10	12	6	9	Cancer	Virgo	Pisces	Gemini	9	26	2025	1036	
+10	12	6	9	Cancer	Virgo	Pisces	Gemini	9	27	2025	2400	
+10	12	6	9	Cancer	Virgo	Pisces	Gemini	9	28	2025	2400	
+10	12	6	9	Cancer	Virgo	Pisces	Gemini	9	29	2025	2400	
+10	12	6	9	Cancer	Virgo	Pisces	Gemini	9	30	2025	1824	
+10	12	6	10	Cancer	Virgo	Pisces	Cancer	9	30	2025	636	
+10	12	6	10	Cancer	Virgo	Pisces	Cancer	10	1	2025	2400	
+10	12	6	10	Cancer	Virgo	Pisces	Cancer	10	2	2025	2400	
+10	12	6	10	Cancer	Virgo	Pisces	Cancer	10	3	2025	2400	
+10	12	6	10	Cancer	Virgo	Pisces	Cancer	10	4	2025	2400	
+10	12	6	10	Cancer	Virgo	Pisces	Cancer	10	5	2025	2324	
+10	12	6	11	Cancer	Virgo	Pisces	Leo	10	5	2025	136	
+10	12	6	11	Cancer	Virgo	Pisces	Leo	10	6	2025	2400	
+10	12	6	11	Cancer	Virgo	Pisces	Leo	10	7	2025	2400	
+10	12	6	11	Cancer	Virgo	Pisces	Leo	10	8	2025	2400	
+10	12	6	11	Cancer	Virgo	Pisces	Leo	10	9	2025	2224	
+10	12	6	12	Cancer	Virgo	Pisces	Virgo	10	9	2025	236	
+10	12	6	12	Cancer	Virgo	Pisces	Virgo	10	10	2025	2400	
+10	12	6	12	Cancer	Virgo	Pisces	Virgo	10	11	2025	2400	
+10	12	6	12	Cancer	Virgo	Pisces	Virgo	10	12	2025	2400	
+10	12	6	12	Cancer	Virgo	Pisces	Virgo	10	13	2025	2400	
+10	12	6	12	Cancer	Virgo	Pisces	Virgo	10	14	2025	224	
+10	12	6	1	Cancer	Virgo	Pisces	Libra	10	14	2025	2236	
+10	12	6	1	Cancer	Virgo	Pisces	Libra	10	15	2025	1824	
+10	12	6	2	Cancer	Virgo	Pisces	Scorpio	10	15	2025	636	
+10	12	6	2	Cancer	Virgo	Pisces	Scorpio	10	16	2025	2400	
+10	12	6	2	Cancer	Virgo	Pisces	Scorpio	10	17	2025	2400	
+10	12	6	2	Cancer	Virgo	Pisces	Scorpio	10	18	2025	2124	
+10	12	6	3	Cancer	Virgo	Pisces	Sagittarius	10	18	2025	336	
+10	12	6	3	Cancer	Virgo	Pisces	Sagittarius	10	19	2025	724	
+10	12	7	7	Cancer	Virgo	Aries	Aries	10	19	2025	1736	
+10	12	7	7	Cancer	Virgo	Aries	Aries	10	20	2025	2400	
+10	12	7	7	Cancer	Virgo	Aries	Aries	10	21	2025	2400	
+10	12	7	7	Cancer	Virgo	Aries	Aries	10	22	2025	1024	
+10	12	7	8	Cancer	Virgo	Aries	Taurus	10	22	2025	1436	
+10	12	7	8	Cancer	Virgo	Aries	Taurus	10	23	2025	2400	
+10	12	7	8	Cancer	Virgo	Aries	Taurus	10	24	2025	224	
+10	12	7	9	Cancer	Virgo	Aries	Gemini	10	24	2025	2236	
+10	12	7	9	Cancer	Virgo	Aries	Gemini	10	25	2025	2400	
+10	12	7	9	Cancer	Virgo	Aries	Gemini	10	26	2025	2400	
+10	12	7	9	Cancer	Virgo	Aries	Gemini	10	27	2025	2400	
+10	12	7	9	Cancer	Virgo	Aries	Gemini	10	28	2025	624	
+10	12	7	10	Cancer	Virgo	Aries	Cancer	10	28	2025	1836	
+10	12	7	10	Cancer	Virgo	Aries	Cancer	10	29	2025	2400	
+10	12	7	10	Cancer	Virgo	Aries	Cancer	10	30	2025	2400	
+10	12	7	10	Cancer	Virgo	Aries	Cancer	10	31	2025	2400	
+10	12	7	10	Cancer	Virgo	Aries	Cancer	11	1	2025	2400	
+10	12	7	10	Cancer	Virgo	Aries	Cancer	11	2	2025	1124	
+10	12	7	11	Cancer	Virgo	Aries	Leo	11	2	2025	1336	
+10	12	7	11	Cancer	Virgo	Aries	Leo	11	3	2025	2400	
+10	12	7	11	Cancer	Virgo	Aries	Leo	11	4	2025	2400	
+10	12	7	11	Cancer	Virgo	Aries	Leo	11	5	2025	2400	
+10	12	7	11	Cancer	Virgo	Aries	Leo	11	6	2025	1024	
+10	12	7	12	Cancer	Virgo	Aries	Virgo	11	6	2025	1436	
+10	12	7	12	Cancer	Virgo	Aries	Virgo	11	7	2025	2400	
+10	12	7	12	Cancer	Virgo	Aries	Virgo	11	8	2025	2400	
+10	12	7	12	Cancer	Virgo	Aries	Virgo	11	9	2025	2400	
+10	12	7	12	Cancer	Virgo	Aries	Virgo	11	10	2025	1424	
+10	12	7	1	Cancer	Virgo	Aries	Libra	11	10	2025	1036	
+10	12	7	1	Cancer	Virgo	Aries	Libra	11	11	2025	2400	
+10	12	7	1	Cancer	Virgo	Aries	Libra	11	12	2025	624	
+10	12	7	2	Cancer	Virgo	Aries	Scorpio	11	12	2025	1836	
+10	12	7	2	Cancer	Virgo	Aries	Scorpio	11	13	2025	2400	
+10	12	7	2	Cancer	Virgo	Aries	Scorpio	11	14	2025	2400	
+10	12	7	2	Cancer	Virgo	Aries	Scorpio	11	15	2025	924	
+10	12	7	3	Cancer	Virgo	Aries	Sagittarius	11	15	2025	1536	
+10	12	7	3	Cancer	Virgo	Aries	Sagittarius	11	16	2025	2400	
+10	12	7	3	Cancer	Virgo	Aries	Sagittarius	11	17	2025	2124	
+10	12	7	4	Cancer	Virgo	Aries	Capricorn	11	17	2025	336	
+10	12	7	4	Cancer	Virgo	Aries	Capricorn	11	18	2025	2400	
+10	12	7	4	Cancer	Virgo	Aries	Capricorn	11	19	2025	2400	
+10	12	7	4	Cancer	Virgo	Aries	Capricorn	11	20	2025	2400	
+10	12	7	4	Cancer	Virgo	Aries	Capricorn	11	21	2025	2400	
+10	12	7	4	Cancer	Virgo	Aries	Capricorn	11	22	2025	2400	
+10	12	7	4	Cancer	Virgo	Aries	Capricorn	11	23	2025	1224	
+10	12	7	5	Cancer	Virgo	Aries	Aquarius	11	23	2025	1236	
+10	12	7	5	Cancer	Virgo	Aries	Aquarius	11	24	2025	2400	
+10	12	7	5	Cancer	Virgo	Aries	Aquarius	11	25	2025	1924	
+10	12	8	8	Cancer	Virgo	Taurus	Taurus	11	25	2025	536	
+10	12	8	8	Cancer	Virgo	Taurus	Taurus	11	26	2025	2400	
+10	12	8	8	Cancer	Virgo	Taurus	Taurus	11	27	2025	1124	
+10	12	8	9	Cancer	Virgo	Taurus	Gemini	11	27	2025	1336	
+10	12	8	9	Cancer	Virgo	Taurus	Gemini	11	28	2025	2400	
+10	12	8	9	Cancer	Virgo	Taurus	Gemini	11	29	2025	2400	
+10	12	8	9	Cancer	Virgo	Taurus	Gemini	11	30	2025	2400	
+10	12	8	9	Cancer	Virgo	Taurus	Gemini	12	1	2025	1524	
+10	12	8	10	Cancer	Virgo	Taurus	Cancer	12	1	2025	936	
+10	12	8	10	Cancer	Virgo	Taurus	Cancer	12	2	2025	2400	
+10	12	8	10	Cancer	Virgo	Taurus	Cancer	12	3	2025	2400	
+10	12	8	10	Cancer	Virgo	Taurus	Cancer	12	4	2025	2400	
+10	12	8	10	Cancer	Virgo	Taurus	Cancer	12	5	2025	2400	
+10	12	8	10	Cancer	Virgo	Taurus	Cancer	12	6	2025	2024	
+10	12	8	11	Cancer	Virgo	Taurus	Leo	12	6	2025	436	
+10	12	8	11	Cancer	Virgo	Taurus	Leo	12	7	2025	2400	
+10	12	8	11	Cancer	Virgo	Taurus	Leo	12	8	2025	2400	
+10	12	8	11	Cancer	Virgo	Taurus	Leo	12	9	2025	2400	
+10	12	8	11	Cancer	Virgo	Taurus	Leo	12	10	2025	1924	
+10	12	8	12	Cancer	Virgo	Taurus	Virgo	12	10	2025	536	
+10	12	8	12	Cancer	Virgo	Taurus	Virgo	12	11	2025	2400	
+10	12	8	12	Cancer	Virgo	Taurus	Virgo	12	12	2025	2400	
+10	12	8	12	Cancer	Virgo	Taurus	Virgo	12	13	2025	2400	
+10	12	8	12	Cancer	Virgo	Taurus	Virgo	12	14	2025	2324	
+10	12	8	1	Cancer	Virgo	Taurus	Libra	12	14	2025	136	
+10	12	8	1	Cancer	Virgo	Taurus	Libra	12	15	2025	1924	
+10	12	9	9	Cancer	Virgo	Gemini	Gemini	12	15	2025	536	
+10	12	9	9	Cancer	Virgo	Gemini	Gemini	12	16	2025	2400	
+10	12	9	9	Cancer	Virgo	Gemini	Gemini	12	17	2025	2400	
+10	12	9	9	Cancer	Virgo	Gemini	Gemini	12	18	2025	2400	
+10	12	9	9	Cancer	Virgo	Gemini	Gemini	12	19	2025	2324	
+10	12	9	10	Cancer	Virgo	Gemini	Cancer	12	19	2025	136	
+10	12	9	10	Cancer	Virgo	Gemini	Cancer	12	20	2025	2400	
+10	12	9	10	Cancer	Virgo	Gemini	Cancer	12	21	2025	2400	
+10	12	9	10	Cancer	Virgo	Gemini	Cancer	12	22	2025	2400	
+10	12	9	10	Cancer	Virgo	Gemini	Cancer	12	23	2025	2400	
+10	12	9	10	Cancer	Virgo	Gemini	Cancer	12	24	2025	2400	
+10	12	9	10	Cancer	Virgo	Gemini	Cancer	12	25	2025	424	
+10	12	9	11	Cancer	Virgo	Gemini	Leo	12	25	2025	2036	
+10	12	9	11	Cancer	Virgo	Gemini	Leo	12	26	2025	2400	
+10	12	9	11	Cancer	Virgo	Gemini	Leo	12	27	2025	2400	
+10	12	9	11	Cancer	Virgo	Gemini	Leo	12	28	2025	2400	
+10	12	9	11	Cancer	Virgo	Gemini	Leo	12	29	2025	324	
+10	12	9	12	Cancer	Virgo	Gemini	Virgo	12	29	2025	2136	
+10	12	9	12	Cancer	Virgo	Gemini	Virgo	12	30	2025	2400	
+10	12	9	12	Cancer	Virgo	Gemini	Virgo	12	31	2025	2400	

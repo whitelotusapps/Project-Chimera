@@ -1,0 +1,21 @@
+ner = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$NamedEntityTagAnnotation" }
+normNER = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$NormalizedNamedEntityTagAnnotation" }
+tokens = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$TokensAnnotation" }
+{
+    ruleType: "tokens",
+    pattern: ([{
+                word: "AGI"
+            }
+        ]),
+    action: (Annotate($0, ner, "ARTIFICIAL_GENERAL_INTELLIGENCE"), Annotate($0, normNER, "ARTIFICIAL_GENERAL_INTELLIGENCE")),
+    result: "ARTIFICIAL_GENERAL_INTELLIGENCE"
+}
+{
+    ruleType: "tokens",
+    pattern: ([{
+                word: "Valorant"
+            }
+        ]),
+    action: (Annotate($0, ner, "PC_GAME"), Annotate($0, normNER, "FIRST_PERSON_SHOOTER")),
+    result: "PC_GAME"
+}

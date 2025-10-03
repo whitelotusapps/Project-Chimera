@@ -1,0 +1,469 @@
+L1_Natal_house	L2_Natal_House	L3_Natal_House	L4_Natal_House	L1_Sign	L2_Sign	L3_Sign	L4_Sign	Month	Day	Year	Duration	LOB_Type
+9	10	12	3	Gemini	Cancer	Virgo	Sagittarius	1	1	2025	624	
+9	10	12	4	Gemini	Cancer	Virgo	Capricorn	1	1	2025	1836	
+9	10	12	4	Gemini	Cancer	Virgo	Capricorn	1	2	2025	2400	
+9	10	12	4	Gemini	Cancer	Virgo	Capricorn	1	3	2025	2400	
+9	10	12	4	Gemini	Cancer	Virgo	Capricorn	1	4	2025	2400	
+9	10	12	4	Gemini	Cancer	Virgo	Capricorn	1	5	2025	2400	
+9	10	12	4	Gemini	Cancer	Virgo	Capricorn	1	6	2025	2124	
+9	10	12	5	Gemini	Cancer	Virgo	Aquarius	1	6	2025	336	
+9	10	12	5	Gemini	Cancer	Virgo	Aquarius	1	7	2025	2400	
+9	10	12	5	Gemini	Cancer	Virgo	Aquarius	1	8	2025	2400	
+9	10	12	5	Gemini	Cancer	Virgo	Aquarius	1	9	2025	2400	
+9	10	12	5	Gemini	Cancer	Virgo	Aquarius	1	10	2025	2400	
+9	10	12	5	Gemini	Cancer	Virgo	Aquarius	1	11	2025	2400	
+9	10	12	5	Gemini	Cancer	Virgo	Aquarius	1	12	2025	2400	
+9	10	12	5	Gemini	Cancer	Virgo	Aquarius	1	13	2025	324	
+9	10	12	6	Gemini	Cancer	Virgo	Pisces	1	13	2025	2136	
+9	10	12	6	Gemini	Cancer	Virgo	Pisces	1	14	2025	2400	
+9	10	12	6	Gemini	Cancer	Virgo	Pisces	1	15	2025	1524	
+9	10	12	7	Gemini	Cancer	Virgo	Aries	1	15	2025	936	
+9	10	12	7	Gemini	Cancer	Virgo	Aries	1	16	2025	2400	
+9	10	12	7	Gemini	Cancer	Virgo	Aries	1	17	2025	2400	
+9	10	12	7	Gemini	Cancer	Virgo	Aries	1	18	2025	1824	
+9	10	12	8	Gemini	Cancer	Virgo	Taurus	1	18	2025	636	
+9	10	12	8	Gemini	Cancer	Virgo	Taurus	1	19	2025	2400	
+9	10	12	8	Gemini	Cancer	Virgo	Taurus	1	20	2025	1024	
+9	10	12	9	Gemini	Cancer	Virgo	Gemini	1	20	2025	1436	
+9	10	12	9	Gemini	Cancer	Virgo	Gemini	1	21	2025	2400	
+9	10	12	9	Gemini	Cancer	Virgo	Gemini	1	22	2025	2400	
+9	10	12	9	Gemini	Cancer	Virgo	Gemini	1	23	2025	2400	
+9	10	12	9	Gemini	Cancer	Virgo	Gemini	1	24	2025	1424	
+9	10	12	10	Gemini	Cancer	Virgo	Cancer	1	24	2025	1036	
+9	10	12	10	Gemini	Cancer	Virgo	Cancer	1	25	2025	2400	
+9	10	12	10	Gemini	Cancer	Virgo	Cancer	1	26	2025	2400	
+9	10	12	10	Gemini	Cancer	Virgo	Cancer	1	27	2025	2400	
+9	10	12	10	Gemini	Cancer	Virgo	Cancer	1	28	2025	2400	
+9	10	12	10	Gemini	Cancer	Virgo	Cancer	1	29	2025	1924	
+9	10	12	11	Gemini	Cancer	Virgo	Leo	1	29	2025	536	
+9	10	12	11	Gemini	Cancer	Virgo	Leo	1	30	2025	2400	
+9	10	12	11	Gemini	Cancer	Virgo	Leo	1	31	2025	2400	
+9	10	12	11	Gemini	Cancer	Virgo	Leo	2	1	2025	2400	
+9	10	12	11	Gemini	Cancer	Virgo	Leo	2	2	2025	1824	
+9	10	6	6	Gemini	Cancer	Pisces	Pisces	2	2	2025	636	MN_LB
+9	10	6	6	Gemini	Cancer	Pisces	Pisces	2	3	2025	2400	MN_LB
+9	10	6	6	Gemini	Cancer	Pisces	Pisces	2	4	2025	2400	MN_LB
+9	10	6	6	Gemini	Cancer	Pisces	Pisces	2	5	2025	624	MN_LB
+9	10	6	7	Gemini	Cancer	Pisces	Aries	2	5	2025	1836	MN_LB
+9	10	6	7	Gemini	Cancer	Pisces	Aries	2	6	2025	2400	MN_LB
+9	10	6	7	Gemini	Cancer	Pisces	Aries	2	7	2025	2400	MN_LB
+9	10	6	7	Gemini	Cancer	Pisces	Aries	2	8	2025	924	MN_LB
+9	10	6	8	Gemini	Cancer	Pisces	Taurus	2	8	2025	1924	MN_LB
+9	10	1	1	Gemini	Cancer	Libra	Libra	2	8	2025	536	
+9	10	1	1	Gemini	Cancer	Libra	Libra	2	9	2025	2400	
+9	10	1	1	Gemini	Cancer	Libra	Libra	2	10	2025	1124	
+9	10	1	2	Gemini	Cancer	Libra	Scorpio	2	10	2025	1336	
+9	10	1	2	Gemini	Cancer	Libra	Scorpio	2	11	2025	2400	
+9	10	1	2	Gemini	Cancer	Libra	Scorpio	2	12	2025	2400	
+9	10	1	2	Gemini	Cancer	Libra	Scorpio	2	13	2025	1424	
+9	10	1	3	Gemini	Cancer	Libra	Sagittarius	2	13	2025	1036	
+9	10	1	3	Gemini	Cancer	Libra	Sagittarius	2	14	2025	2400	
+9	10	1	3	Gemini	Cancer	Libra	Sagittarius	2	15	2025	2400	
+9	10	1	3	Gemini	Cancer	Libra	Sagittarius	2	16	2025	224	
+9	10	1	4	Gemini	Cancer	Libra	Capricorn	2	16	2025	2236	
+9	10	1	4	Gemini	Cancer	Libra	Capricorn	2	17	2025	2400	
+9	10	1	4	Gemini	Cancer	Libra	Capricorn	2	18	2025	2400	
+9	10	1	4	Gemini	Cancer	Libra	Capricorn	2	19	2025	2400	
+9	10	1	4	Gemini	Cancer	Libra	Capricorn	2	20	2025	2400	
+9	10	1	4	Gemini	Cancer	Libra	Capricorn	2	21	2025	1724	
+9	10	1	5	Gemini	Cancer	Libra	Aquarius	2	21	2025	736	
+9	10	1	5	Gemini	Cancer	Libra	Aquarius	2	22	2025	2400	
+9	10	1	5	Gemini	Cancer	Libra	Aquarius	2	23	2025	2400	
+9	10	1	5	Gemini	Cancer	Libra	Aquarius	2	24	2025	2400	
+9	10	1	5	Gemini	Cancer	Libra	Aquarius	2	25	2025	2400	
+9	10	1	5	Gemini	Cancer	Libra	Aquarius	2	26	2025	2400	
+9	10	1	5	Gemini	Cancer	Libra	Aquarius	2	27	2025	2324	
+9	10	1	6	Gemini	Cancer	Libra	Pisces	2	27	2025	136	
+9	10	1	6	Gemini	Cancer	Libra	Pisces	2	28	2025	1924	
+9	10	2	2	Gemini	Cancer	Scorpio	Scorpio	2	28	2025	536	
+9	10	2	2	Gemini	Cancer	Scorpio	Scorpio	3	1	2025	2400	
+9	10	2	2	Gemini	Cancer	Scorpio	Scorpio	3	2	2025	2400	
+9	10	2	2	Gemini	Cancer	Scorpio	Scorpio	3	3	2025	2224	
+9	10	2	3	Gemini	Cancer	Scorpio	Sagittarius	3	3	2025	236	
+9	10	2	3	Gemini	Cancer	Scorpio	Sagittarius	3	4	2025	2400	
+9	10	2	3	Gemini	Cancer	Scorpio	Sagittarius	3	5	2025	2400	
+9	10	2	3	Gemini	Cancer	Scorpio	Sagittarius	3	6	2025	1024	
+9	10	2	4	Gemini	Cancer	Scorpio	Capricorn	3	6	2025	1436	
+9	10	2	4	Gemini	Cancer	Scorpio	Capricorn	3	7	2025	2400	
+9	10	2	4	Gemini	Cancer	Scorpio	Capricorn	3	8	2025	2400	
+9	10	2	4	Gemini	Cancer	Scorpio	Capricorn	3	9	2025	2400	
+9	10	2	4	Gemini	Cancer	Scorpio	Capricorn	3	10	2025	2400	
+9	10	2	4	Gemini	Cancer	Scorpio	Capricorn	3	11	2025	2400	
+9	10	2	4	Gemini	Cancer	Scorpio	Capricorn	3	12	2025	124	
+9	10	2	5	Gemini	Cancer	Scorpio	Aquarius	3	12	2025	2336	
+9	10	2	5	Gemini	Cancer	Scorpio	Aquarius	3	13	2025	2400	
+9	10	2	5	Gemini	Cancer	Scorpio	Aquarius	3	14	2025	2400	
+9	10	2	5	Gemini	Cancer	Scorpio	Aquarius	3	15	2025	2400	
+9	10	2	5	Gemini	Cancer	Scorpio	Aquarius	3	16	2025	2400	
+9	10	2	5	Gemini	Cancer	Scorpio	Aquarius	3	17	2025	2400	
+9	10	2	5	Gemini	Cancer	Scorpio	Aquarius	3	18	2025	724	
+9	10	2	6	Gemini	Cancer	Scorpio	Pisces	3	18	2025	1736	
+9	10	2	6	Gemini	Cancer	Scorpio	Pisces	3	19	2025	2400	
+9	10	2	6	Gemini	Cancer	Scorpio	Pisces	3	20	2025	1924	
+9	10	2	7	Gemini	Cancer	Scorpio	Aries	3	20	2025	536	
+9	10	2	7	Gemini	Cancer	Scorpio	Aries	3	21	2025	2400	
+9	10	2	7	Gemini	Cancer	Scorpio	Aries	3	22	2025	2400	
+9	10	2	7	Gemini	Cancer	Scorpio	Aries	3	23	2025	2224	
+9	10	2	8	Gemini	Cancer	Scorpio	Taurus	3	23	2025	236	
+9	10	2	8	Gemini	Cancer	Scorpio	Taurus	3	24	2025	2400	
+9	10	2	8	Gemini	Cancer	Scorpio	Taurus	3	25	2025	1424	
+9	10	2	9	Gemini	Cancer	Scorpio	Gemini	3	25	2025	1036	
+9	10	2	9	Gemini	Cancer	Scorpio	Gemini	3	26	2025	2400	
+9	10	2	9	Gemini	Cancer	Scorpio	Gemini	3	27	2025	2400	
+9	10	2	9	Gemini	Cancer	Scorpio	Gemini	3	28	2025	2400	
+9	10	2	9	Gemini	Cancer	Scorpio	Gemini	3	29	2025	1824	
+9	10	2	10	Gemini	Cancer	Scorpio	Cancer	3	29	2025	636	
+9	10	2	10	Gemini	Cancer	Scorpio	Cancer	3	30	2025	2400	
+9	10	2	10	Gemini	Cancer	Scorpio	Cancer	3	31	2025	2400	
+9	10	2	10	Gemini	Cancer	Scorpio	Cancer	4	1	2025	2400	
+9	10	2	10	Gemini	Cancer	Scorpio	Cancer	4	2	2025	2400	
+9	10	2	10	Gemini	Cancer	Scorpio	Cancer	4	3	2025	2324	
+9	10	2	11	Gemini	Cancer	Scorpio	Leo	4	3	2025	136	
+9	10	2	11	Gemini	Cancer	Scorpio	Leo	4	4	2025	2400	
+9	10	2	11	Gemini	Cancer	Scorpio	Leo	4	5	2025	2400	
+9	10	2	11	Gemini	Cancer	Scorpio	Leo	4	6	2025	2400	
+9	10	2	11	Gemini	Cancer	Scorpio	Leo	4	7	2025	724	
+9	10	3	3	Gemini	Cancer	Sagittarius	Sagittarius	4	7	2025	1736	
+9	10	3	3	Gemini	Cancer	Sagittarius	Sagittarius	4	8	2025	2400	
+9	10	3	3	Gemini	Cancer	Sagittarius	Sagittarius	4	9	2025	1924	
+9	10	3	4	Gemini	Cancer	Sagittarius	Capricorn	4	9	2025	536	
+9	10	3	4	Gemini	Cancer	Sagittarius	Capricorn	4	10	2025	2400	
+9	10	3	4	Gemini	Cancer	Sagittarius	Capricorn	4	11	2025	2400	
+9	10	3	4	Gemini	Cancer	Sagittarius	Capricorn	4	12	2025	2400	
+9	10	3	4	Gemini	Cancer	Sagittarius	Capricorn	4	13	2025	2400	
+9	10	3	4	Gemini	Cancer	Sagittarius	Capricorn	4	14	2025	2400	
+9	10	3	4	Gemini	Cancer	Sagittarius	Capricorn	4	15	2025	1024	
+9	10	3	5	Gemini	Cancer	Sagittarius	Aquarius	4	15	2025	1436	
+9	10	3	5	Gemini	Cancer	Sagittarius	Aquarius	4	16	2025	2400	
+9	10	3	5	Gemini	Cancer	Sagittarius	Aquarius	4	17	2025	2400	
+9	10	3	5	Gemini	Cancer	Sagittarius	Aquarius	4	18	2025	2400	
+9	10	3	5	Gemini	Cancer	Sagittarius	Aquarius	4	19	2025	2400	
+9	10	3	5	Gemini	Cancer	Sagittarius	Aquarius	4	20	2025	2400	
+9	10	3	5	Gemini	Cancer	Sagittarius	Aquarius	4	21	2025	1624	
+9	10	3	6	Gemini	Cancer	Sagittarius	Pisces	4	21	2025	836	
+9	10	3	6	Gemini	Cancer	Sagittarius	Pisces	4	22	2025	2400	
+9	10	3	6	Gemini	Cancer	Sagittarius	Pisces	4	23	2025	2400	
+9	10	3	6	Gemini	Cancer	Sagittarius	Pisces	4	24	2025	424	
+9	10	3	7	Gemini	Cancer	Sagittarius	Aries	4	24	2025	2036	
+9	10	3	7	Gemini	Cancer	Sagittarius	Aries	4	25	2025	2400	
+9	10	3	7	Gemini	Cancer	Sagittarius	Aries	4	26	2025	2400	
+9	10	3	7	Gemini	Cancer	Sagittarius	Aries	4	27	2025	724	
+9	10	3	8	Gemini	Cancer	Sagittarius	Taurus	4	27	2025	1736	
+9	10	3	8	Gemini	Cancer	Sagittarius	Taurus	4	28	2025	2324	
+9	10	3	9	Gemini	Cancer	Sagittarius	Gemini	4	28	2025	136	
+9	10	3	9	Gemini	Cancer	Sagittarius	Gemini	4	29	2025	2400	
+9	10	3	9	Gemini	Cancer	Sagittarius	Gemini	4	30	2025	2400	
+9	10	3	9	Gemini	Cancer	Sagittarius	Gemini	5	1	2025	2400	
+9	10	3	9	Gemini	Cancer	Sagittarius	Gemini	5	2	2025	2400	
+9	10	3	9	Gemini	Cancer	Sagittarius	Gemini	5	3	2025	324	
+9	10	3	10	Gemini	Cancer	Sagittarius	Cancer	5	3	2025	2136	
+9	10	3	10	Gemini	Cancer	Sagittarius	Cancer	5	4	2025	2400	
+9	10	3	10	Gemini	Cancer	Sagittarius	Cancer	5	5	2025	2400	
+9	10	3	10	Gemini	Cancer	Sagittarius	Cancer	5	6	2025	2400	
+9	10	3	10	Gemini	Cancer	Sagittarius	Cancer	5	7	2025	724	
+9	10	4	4	Gemini	Cancer	Capricorn	Capricorn	5	7	2025	1736	
+9	10	4	4	Gemini	Cancer	Capricorn	Capricorn	5	8	2025	2400	
+9	10	4	4	Gemini	Cancer	Capricorn	Capricorn	5	9	2025	2400	
+9	10	4	4	Gemini	Cancer	Capricorn	Capricorn	5	10	2025	2400	
+9	10	4	4	Gemini	Cancer	Capricorn	Capricorn	5	11	2025	2400	
+9	10	4	4	Gemini	Cancer	Capricorn	Capricorn	5	12	2025	2224	
+9	10	4	5	Gemini	Cancer	Capricorn	Aquarius	5	12	2025	236	
+9	10	4	5	Gemini	Cancer	Capricorn	Aquarius	5	13	2025	2400	
+9	10	4	5	Gemini	Cancer	Capricorn	Aquarius	5	14	2025	2400	
+9	10	4	5	Gemini	Cancer	Capricorn	Aquarius	5	15	2025	2400	
+9	10	4	5	Gemini	Cancer	Capricorn	Aquarius	5	16	2025	2400	
+9	10	4	5	Gemini	Cancer	Capricorn	Aquarius	5	17	2025	2400	
+9	10	4	5	Gemini	Cancer	Capricorn	Aquarius	5	18	2025	2400	
+9	10	4	5	Gemini	Cancer	Capricorn	Aquarius	5	19	2025	424	
+9	10	4	6	Gemini	Cancer	Capricorn	Pisces	5	19	2025	2036	
+9	10	4	6	Gemini	Cancer	Capricorn	Pisces	5	20	2025	2400	
+9	10	4	6	Gemini	Cancer	Capricorn	Pisces	5	21	2025	1624	
+9	10	4	7	Gemini	Cancer	Capricorn	Aries	5	21	2025	836	
+9	10	4	7	Gemini	Cancer	Capricorn	Aries	5	22	2025	2400	
+9	10	4	7	Gemini	Cancer	Capricorn	Aries	5	23	2025	2400	
+9	10	4	7	Gemini	Cancer	Capricorn	Aries	5	24	2025	1924	
+9	10	4	8	Gemini	Cancer	Capricorn	Taurus	5	24	2025	536	
+9	10	4	8	Gemini	Cancer	Capricorn	Taurus	5	25	2025	2400	
+9	10	4	8	Gemini	Cancer	Capricorn	Taurus	5	26	2025	1124	
+9	10	4	9	Gemini	Cancer	Capricorn	Gemini	5	26	2025	1336	
+9	10	4	9	Gemini	Cancer	Capricorn	Gemini	5	27	2025	2400	
+9	10	4	9	Gemini	Cancer	Capricorn	Gemini	5	28	2025	2400	
+9	10	4	9	Gemini	Cancer	Capricorn	Gemini	5	29	2025	2400	
+9	10	4	9	Gemini	Cancer	Capricorn	Gemini	5	30	2025	1524	
+9	10	4	10	Gemini	Cancer	Capricorn	Cancer	5	30	2025	936	
+9	10	4	10	Gemini	Cancer	Capricorn	Cancer	5	31	2025	2400	
+9	10	4	10	Gemini	Cancer	Capricorn	Cancer	6	1	2025	2400	
+9	10	4	10	Gemini	Cancer	Capricorn	Cancer	6	2	2025	2400	
+9	10	4	10	Gemini	Cancer	Capricorn	Cancer	6	3	2025	2400	
+9	10	4	10	Gemini	Cancer	Capricorn	Cancer	6	4	2025	2024	
+9	10	4	11	Gemini	Cancer	Capricorn	Leo	6	4	2025	436	
+9	10	4	11	Gemini	Cancer	Capricorn	Leo	6	5	2025	2400	
+9	10	4	11	Gemini	Cancer	Capricorn	Leo	6	6	2025	2400	
+9	10	4	11	Gemini	Cancer	Capricorn	Leo	6	7	2025	2400	
+9	10	4	11	Gemini	Cancer	Capricorn	Leo	6	8	2025	1924	
+9	10	4	12	Gemini	Cancer	Capricorn	Virgo	6	8	2025	24	
+9	10	4	12	Gemini	Cancer	Capricorn	Virgo	6	9	2025	48	
+9	10	4	12	Gemini	Cancer	Capricorn	Virgo	6	10	2025	72	
+9	10	4	12	Gemini	Cancer	Capricorn	Virgo	6	11	2025	96	
+9	5	5	5	Gemini	Aquarius	Aquarius	Aquarius	6	11	2025	1736	
+9	5	5	5	Gemini	Aquarius	Aquarius	Aquarius	6	12	2025	2400	
+9	5	5	5	Gemini	Aquarius	Aquarius	Aquarius	6	13	2025	2400	
+9	5	5	5	Gemini	Aquarius	Aquarius	Aquarius	6	14	2025	2400	
+9	5	5	5	Gemini	Aquarius	Aquarius	Aquarius	6	15	2025	2400	
+9	5	5	5	Gemini	Aquarius	Aquarius	Aquarius	6	16	2025	2400	
+9	5	5	5	Gemini	Aquarius	Aquarius	Aquarius	6	17	2025	1324	
+9	5	5	6	Gemini	Aquarius	Aquarius	Pisces	6	17	2025	1136	
+9	5	5	6	Gemini	Aquarius	Aquarius	Pisces	6	18	2025	2400	
+9	5	5	6	Gemini	Aquarius	Aquarius	Pisces	6	19	2025	2400	
+9	5	5	6	Gemini	Aquarius	Aquarius	Pisces	6	20	2025	124	
+9	5	5	7	Gemini	Aquarius	Aquarius	Aries	6	20	2025	2336	
+9	5	5	7	Gemini	Aquarius	Aquarius	Aries	6	21	2025	2400	
+9	5	5	7	Gemini	Aquarius	Aquarius	Aries	6	22	2025	2400	
+9	5	5	7	Gemini	Aquarius	Aquarius	Aries	6	23	2025	424	
+9	5	5	8	Gemini	Aquarius	Aquarius	Taurus	6	23	2025	2036	
+9	5	5	8	Gemini	Aquarius	Aquarius	Taurus	6	24	2025	2024	
+9	5	5	9	Gemini	Aquarius	Aquarius	Gemini	6	24	2025	436	
+9	5	5	9	Gemini	Aquarius	Aquarius	Gemini	6	25	2025	2400	
+9	5	5	9	Gemini	Aquarius	Aquarius	Gemini	6	26	2025	2400	
+9	5	5	9	Gemini	Aquarius	Aquarius	Gemini	6	27	2025	2400	
+9	5	5	9	Gemini	Aquarius	Aquarius	Gemini	6	28	2025	2400	
+9	5	5	9	Gemini	Aquarius	Aquarius	Gemini	6	29	2025	24	
+9	5	5	10	Gemini	Aquarius	Aquarius	Cancer	6	29	2025	2436	
+9	5	5	10	Gemini	Aquarius	Aquarius	Cancer	6	30	2025	2400	
+9	5	5	10	Gemini	Aquarius	Aquarius	Cancer	7	1	2025	2400	
+9	5	5	10	Gemini	Aquarius	Aquarius	Cancer	7	2	2025	2400	
+9	5	5	10	Gemini	Aquarius	Aquarius	Cancer	7	3	2025	2400	
+9	5	5	10	Gemini	Aquarius	Aquarius	Cancer	7	4	2025	524	
+9	5	5	11	Gemini	Aquarius	Aquarius	Leo	7	4	2025	1936	
+9	5	5	11	Gemini	Aquarius	Aquarius	Leo	7	5	2025	2400	
+9	5	5	11	Gemini	Aquarius	Aquarius	Leo	7	6	2025	2400	
+9	5	5	11	Gemini	Aquarius	Aquarius	Leo	7	7	2025	2400	
+9	5	5	11	Gemini	Aquarius	Aquarius	Leo	7	8	2025	424	
+9	5	5	12	Gemini	Aquarius	Aquarius	Virgo	7	8	2025	2036	
+9	5	5	12	Gemini	Aquarius	Aquarius	Virgo	7	9	2025	2400	
+9	5	5	12	Gemini	Aquarius	Aquarius	Virgo	7	10	2025	2400	
+9	5	5	12	Gemini	Aquarius	Aquarius	Virgo	7	11	2025	2400	
+9	5	5	12	Gemini	Aquarius	Aquarius	Virgo	7	12	2025	824	
+9	5	5	1	Gemini	Aquarius	Aquarius	Libra	7	12	2025	1636	
+9	5	5	1	Gemini	Aquarius	Aquarius	Libra	7	13	2025	2400	
+9	5	5	1	Gemini	Aquarius	Aquarius	Libra	7	14	2025	24	
+9	5	5	2	Gemini	Aquarius	Aquarius	Scorpio	7	14	2025	2436	
+9	5	5	2	Gemini	Aquarius	Aquarius	Scorpio	7	15	2025	2400	
+9	5	5	2	Gemini	Aquarius	Aquarius	Scorpio	7	16	2025	2400	
+9	5	5	2	Gemini	Aquarius	Aquarius	Scorpio	7	17	2025	324	
+9	5	5	3	Gemini	Aquarius	Aquarius	Sagittarius	7	17	2025	2136	
+9	5	5	3	Gemini	Aquarius	Aquarius	Sagittarius	7	18	2025	2400	
+9	5	5	3	Gemini	Aquarius	Aquarius	Sagittarius	7	19	2025	1524	
+9	5	5	4	Gemini	Aquarius	Aquarius	Capricorn	7	19	2025	936	
+9	5	5	4	Gemini	Aquarius	Aquarius	Capricorn	7	20	2025	2400	
+9	5	5	4	Gemini	Aquarius	Aquarius	Capricorn	7	21	2025	2400	
+9	5	5	4	Gemini	Aquarius	Aquarius	Capricorn	7	22	2025	2400	
+9	5	5	4	Gemini	Aquarius	Aquarius	Capricorn	7	23	2025	2400	
+9	5	5	4	Gemini	Aquarius	Aquarius	Capricorn	7	24	2025	2400	
+9	5	5	4	Gemini	Aquarius	Aquarius	Capricorn	7	25	2025	624	
+9	5	11	11	Gemini	Aquarius	Leo	Leo	7	25	2025	1836	MN_LB
+9	5	11	11	Gemini	Aquarius	Leo	Leo	7	26	2025	2400	MN_LB
+9	5	11	11	Gemini	Aquarius	Leo	Leo	7	27	2025	2400	MN_LB
+9	5	11	11	Gemini	Aquarius	Leo	Leo	7	28	2025	2400	MN_LB
+9	5	11	11	Gemini	Aquarius	Leo	Leo	7	29	2025	524	MN_LB
+9	5	11	12	Gemini	Aquarius	Leo	Virgo	7	29	2025	1936	MN_LB
+9	5	11	12	Gemini	Aquarius	Leo	Virgo	7	30	2025	2400	MN_LB
+9	5	11	12	Gemini	Aquarius	Leo	Virgo	7	31	2025	2400	MN_LB
+9	5	11	12	Gemini	Aquarius	Leo	Virgo	8	1	2025	2400	MN_LB
+9	5	11	12	Gemini	Aquarius	Leo	Virgo	8	2	2025	924	MN_LB
+9	5	11	1	Gemini	Aquarius	Leo	Libra	8	2	2025	1536	MN_LB
+9	5	11	1	Gemini	Aquarius	Leo	Libra	8	3	2025	2400	MN_LB
+9	5	11	1	Gemini	Aquarius	Leo	Libra	8	4	2025	124	MN_LB
+9	5	11	2	Gemini	Aquarius	Leo	Scorpio	8	4	2025	2336	MN_LB
+9	5	11	2	Gemini	Aquarius	Leo	Scorpio	8	5	2025	2400	MN_LB
+9	5	11	2	Gemini	Aquarius	Leo	Scorpio	8	6	2025	2400	MN_LB
+9	5	11	2	Gemini	Aquarius	Leo	Scorpio	8	7	2025	424	MN_LB
+9	5	11	3	Gemini	Aquarius	Leo	Sagittarius	8	7	2025	2036	MN_LB
+9	5	11	3	Gemini	Aquarius	Leo	Sagittarius	8	8	2025	2400	MN_LB
+9	5	11	3	Gemini	Aquarius	Leo	Sagittarius	8	9	2025	1624	MN_LB
+9	5	11	4	Gemini	Aquarius	Leo	Capricorn	8	9	2025	836	MN_LB
+9	5	11	4	Gemini	Aquarius	Leo	Capricorn	8	10	2025	2400	MN_LB
+9	5	11	4	Gemini	Aquarius	Leo	Capricorn	8	11	2025	2400	MN_LB
+9	5	11	4	Gemini	Aquarius	Leo	Capricorn	8	12	2025	2400	MN_LB
+9	5	11	4	Gemini	Aquarius	Leo	Capricorn	8	13	2025	2400	MN_LB
+9	5	11	4	Gemini	Aquarius	Leo	Capricorn	8	14	2025	2400	MN_LB
+9	5	11	4	Gemini	Aquarius	Leo	Capricorn	8	15	2025	724	MN_LB
+9	5	11	5	Gemini	Aquarius	Leo	Aquarius	8	15	2025	1736	MN_LB
+9	5	11	5	Gemini	Aquarius	Leo	Aquarius	8	16	2025	2400	MN_LB
+9	5	11	5	Gemini	Aquarius	Leo	Aquarius	8	17	2025	2400	MN_LB
+9	5	11	5	Gemini	Aquarius	Leo	Aquarius	8	18	2025	2400	MN_LB
+9	5	11	5	Gemini	Aquarius	Leo	Aquarius	8	19	2025	2400	MN_LB
+9	5	11	5	Gemini	Aquarius	Leo	Aquarius	8	20	2025	2400	MN_LB
+9	5	11	5	Gemini	Aquarius	Leo	Aquarius	8	21	2025	1324	MN_LB
+9	5	11	6	Gemini	Aquarius	Leo	Pisces	8	21	2025	1136	MN_LB
+9	5	11	6	Gemini	Aquarius	Leo	Pisces	8	22	2025	2400	MN_LB
+9	5	11	6	Gemini	Aquarius	Leo	Pisces	8	23	2025	2400	MN_LB
+9	5	11	6	Gemini	Aquarius	Leo	Pisces	8	24	2025	124	MN_LB
+9	5	11	7	Gemini	Aquarius	Leo	Aries	8	24	2025	2336	MN_LB
+9	5	11	7	Gemini	Aquarius	Leo	Aries	8	25	2025	724	MN_LB
+9	5	6	6	Gemini	Aquarius	Pisces	Pisces	8	25	2025	1736	
+9	5	6	6	Gemini	Aquarius	Pisces	Pisces	8	26	2025	2400	
+9	5	6	6	Gemini	Aquarius	Pisces	Pisces	8	27	2025	1924	
+9	5	6	7	Gemini	Aquarius	Pisces	Aries	8	27	2025	536	
+9	5	6	7	Gemini	Aquarius	Pisces	Aries	8	28	2025	2400	
+9	5	6	7	Gemini	Aquarius	Pisces	Aries	8	29	2025	2400	
+9	5	6	7	Gemini	Aquarius	Pisces	Aries	8	30	2025	2224	
+9	5	6	8	Gemini	Aquarius	Pisces	Taurus	8	30	2025	236	
+9	5	6	8	Gemini	Aquarius	Pisces	Taurus	8	31	2025	2400	
+9	5	6	8	Gemini	Aquarius	Pisces	Taurus	9	1	2025	1424	
+9	5	6	9	Gemini	Aquarius	Pisces	Gemini	9	1	2025	1036	
+9	5	6	9	Gemini	Aquarius	Pisces	Gemini	9	2	2025	2400	
+9	5	6	9	Gemini	Aquarius	Pisces	Gemini	9	3	2025	2400	
+9	5	6	9	Gemini	Aquarius	Pisces	Gemini	9	4	2025	2400	
+9	5	6	9	Gemini	Aquarius	Pisces	Gemini	9	5	2025	1824	
+9	5	6	10	Gemini	Aquarius	Pisces	Cancer	9	5	2025	636	
+9	5	6	10	Gemini	Aquarius	Pisces	Cancer	9	6	2025	2400	
+9	5	6	10	Gemini	Aquarius	Pisces	Cancer	9	7	2025	2400	
+9	5	6	10	Gemini	Aquarius	Pisces	Cancer	9	8	2025	2400	
+9	5	6	10	Gemini	Aquarius	Pisces	Cancer	9	9	2025	2400	
+9	5	6	10	Gemini	Aquarius	Pisces	Cancer	9	10	2025	2324	
+9	5	6	11	Gemini	Aquarius	Pisces	Leo	9	10	2025	136	
+9	5	6	11	Gemini	Aquarius	Pisces	Leo	9	11	2025	2400	
+9	5	6	11	Gemini	Aquarius	Pisces	Leo	9	12	2025	2400	
+9	5	6	11	Gemini	Aquarius	Pisces	Leo	9	13	2025	2400	
+9	5	6	11	Gemini	Aquarius	Pisces	Leo	9	14	2025	2224	
+9	5	6	12	Gemini	Aquarius	Pisces	Virgo	9	14	2025	236	
+9	5	6	12	Gemini	Aquarius	Pisces	Virgo	9	15	2025	2400	
+9	5	6	12	Gemini	Aquarius	Pisces	Virgo	9	16	2025	2400	
+9	5	6	12	Gemini	Aquarius	Pisces	Virgo	9	17	2025	2400	
+9	5	6	12	Gemini	Aquarius	Pisces	Virgo	9	18	2025	2400	
+9	5	6	12	Gemini	Aquarius	Pisces	Virgo	9	19	2025	224	
+9	5	6	1	Gemini	Aquarius	Pisces	Libra	9	19	2025	2236	
+9	5	6	1	Gemini	Aquarius	Pisces	Libra	9	20	2025	1824	
+9	5	6	2	Gemini	Aquarius	Pisces	Scorpio	9	20	2025	636	
+9	5	6	2	Gemini	Aquarius	Pisces	Scorpio	9	21	2025	2400	
+9	5	6	2	Gemini	Aquarius	Pisces	Scorpio	9	22	2025	2400	
+9	5	6	2	Gemini	Aquarius	Pisces	Scorpio	9	23	2025	2124	
+9	5	6	3	Gemini	Aquarius	Pisces	Sagittarius	9	23	2025	336	
+9	5	6	3	Gemini	Aquarius	Pisces	Sagittarius	9	24	2025	724	
+9	5	7	7	Gemini	Aquarius	Aries	Aries	9	24	2025	1736	
+9	5	7	7	Gemini	Aquarius	Aries	Aries	9	25	2025	2400	
+9	5	7	7	Gemini	Aquarius	Aries	Aries	9	26	2025	2400	
+9	5	7	7	Gemini	Aquarius	Aries	Aries	9	27	2025	1024	
+9	5	7	8	Gemini	Aquarius	Aries	Taurus	9	27	2025	1436	
+9	5	7	8	Gemini	Aquarius	Aries	Taurus	9	28	2025	2400	
+9	5	7	8	Gemini	Aquarius	Aries	Taurus	9	29	2025	224	
+9	5	7	9	Gemini	Aquarius	Aries	Gemini	9	29	2025	2236	
+9	5	7	9	Gemini	Aquarius	Aries	Gemini	9	30	2025	2400	
+9	5	7	9	Gemini	Aquarius	Aries	Gemini	10	1	2025	2400	
+9	5	7	9	Gemini	Aquarius	Aries	Gemini	10	2	2025	2400	
+9	5	7	9	Gemini	Aquarius	Aries	Gemini	10	3	2025	624	
+9	5	7	10	Gemini	Aquarius	Aries	Cancer	10	3	2025	1836	
+9	5	7	10	Gemini	Aquarius	Aries	Cancer	10	4	2025	2400	
+9	5	7	10	Gemini	Aquarius	Aries	Cancer	10	5	2025	2400	
+9	5	7	10	Gemini	Aquarius	Aries	Cancer	10	6	2025	2400	
+9	5	7	10	Gemini	Aquarius	Aries	Cancer	10	7	2025	2400	
+9	5	7	10	Gemini	Aquarius	Aries	Cancer	10	8	2025	1124	
+9	5	7	11	Gemini	Aquarius	Aries	Leo	10	8	2025	1336	
+9	5	7	11	Gemini	Aquarius	Aries	Leo	10	9	2025	2400	
+9	5	7	11	Gemini	Aquarius	Aries	Leo	10	10	2025	2400	
+9	5	7	11	Gemini	Aquarius	Aries	Leo	10	11	2025	2400	
+9	5	7	11	Gemini	Aquarius	Aries	Leo	10	12	2025	1024	
+9	5	7	12	Gemini	Aquarius	Aries	Virgo	10	12	2025	1436	
+9	5	7	12	Gemini	Aquarius	Aries	Virgo	10	13	2025	2400	
+9	5	7	12	Gemini	Aquarius	Aries	Virgo	10	14	2025	2400	
+9	5	7	12	Gemini	Aquarius	Aries	Virgo	10	15	2025	2400	
+9	5	7	12	Gemini	Aquarius	Aries	Virgo	10	16	2025	1424	
+9	5	7	1	Gemini	Aquarius	Aries	Libra	10	16	2025	1036	
+9	5	7	1	Gemini	Aquarius	Aries	Libra	10	17	2025	2400	
+9	5	7	1	Gemini	Aquarius	Aries	Libra	10	18	2025	624	
+9	5	7	2	Gemini	Aquarius	Aries	Scorpio	10	18	2025	1836	
+9	5	7	2	Gemini	Aquarius	Aries	Scorpio	10	19	2025	2400	
+9	5	7	2	Gemini	Aquarius	Aries	Scorpio	10	20	2025	2400	
+9	5	7	2	Gemini	Aquarius	Aries	Scorpio	10	21	2025	924	
+9	5	7	3	Gemini	Aquarius	Aries	Sagittarius	10	21	2025	1536	
+9	5	7	3	Gemini	Aquarius	Aries	Sagittarius	10	22	2025	2400	
+9	5	7	3	Gemini	Aquarius	Aries	Sagittarius	10	23	2025	2124	
+9	5	7	4	Gemini	Aquarius	Aries	Capricorn	10	23	2025	336	
+9	5	7	4	Gemini	Aquarius	Aries	Capricorn	10	24	2025	2400	
+9	5	7	4	Gemini	Aquarius	Aries	Capricorn	10	25	2025	2400	
+9	5	7	4	Gemini	Aquarius	Aries	Capricorn	10	26	2025	2400	
+9	5	7	4	Gemini	Aquarius	Aries	Capricorn	10	27	2025	2400	
+9	5	7	4	Gemini	Aquarius	Aries	Capricorn	10	28	2025	2400	
+9	5	7	4	Gemini	Aquarius	Aries	Capricorn	10	29	2025	1224	
+9	5	7	5	Gemini	Aquarius	Aries	Aquarius	10	29	2025	1236	
+9	5	7	5	Gemini	Aquarius	Aries	Aquarius	10	30	2025	2400	
+9	5	7	5	Gemini	Aquarius	Aries	Aquarius	10	31	2025	1924	
+9	5	8	8	Gemini	Aquarius	Taurus	Taurus	10	31	2025	536	
+9	5	8	8	Gemini	Aquarius	Taurus	Taurus	11	1	2025	2400	
+9	5	8	8	Gemini	Aquarius	Taurus	Taurus	11	2	2025	1124	
+9	5	8	9	Gemini	Aquarius	Taurus	Gemini	11	2	2025	1336	
+9	5	8	9	Gemini	Aquarius	Taurus	Gemini	11	3	2025	2400	
+9	5	8	9	Gemini	Aquarius	Taurus	Gemini	11	4	2025	2400	
+9	5	8	9	Gemini	Aquarius	Taurus	Gemini	11	5	2025	2400	
+9	5	8	9	Gemini	Aquarius	Taurus	Gemini	11	6	2025	1524	
+9	5	8	10	Gemini	Aquarius	Taurus	Cancer	11	6	2025	936	
+9	5	8	10	Gemini	Aquarius	Taurus	Cancer	11	7	2025	2400	
+9	5	8	10	Gemini	Aquarius	Taurus	Cancer	11	8	2025	2400	
+9	5	8	10	Gemini	Aquarius	Taurus	Cancer	11	9	2025	2400	
+9	5	8	10	Gemini	Aquarius	Taurus	Cancer	11	10	2025	2400	
+9	5	8	10	Gemini	Aquarius	Taurus	Cancer	11	11	2025	2024	
+9	5	8	11	Gemini	Aquarius	Taurus	Leo	11	11	2025	436	
+9	5	8	11	Gemini	Aquarius	Taurus	Leo	11	12	2025	2400	
+9	5	8	11	Gemini	Aquarius	Taurus	Leo	11	13	2025	2400	
+9	5	8	11	Gemini	Aquarius	Taurus	Leo	11	14	2025	2400	
+9	5	8	11	Gemini	Aquarius	Taurus	Leo	11	15	2025	1924	
+9	5	8	12	Gemini	Aquarius	Taurus	Virgo	11	15	2025	536	
+9	5	8	12	Gemini	Aquarius	Taurus	Virgo	11	16	2025	2400	
+9	5	8	12	Gemini	Aquarius	Taurus	Virgo	11	17	2025	2400	
+9	5	8	12	Gemini	Aquarius	Taurus	Virgo	11	18	2025	2400	
+9	5	8	12	Gemini	Aquarius	Taurus	Virgo	11	19	2025	2324	
+9	5	8	1	Gemini	Aquarius	Taurus	Libra	11	19	2025	136	
+9	5	8	1	Gemini	Aquarius	Taurus	Libra	11	20	2025	1924	
+9	5	9	9	Gemini	Aquarius	Gemini	Gemini	11	20	2025	536	
+9	5	9	9	Gemini	Aquarius	Gemini	Gemini	11	21	2025	2400	
+9	5	9	9	Gemini	Aquarius	Gemini	Gemini	11	22	2025	2400	
+9	5	9	9	Gemini	Aquarius	Gemini	Gemini	11	23	2025	2400	
+9	5	9	9	Gemini	Aquarius	Gemini	Gemini	11	24	2025	2324	
+9	5	9	10	Gemini	Aquarius	Gemini	Cancer	11	24	2025	136	
+9	5	9	10	Gemini	Aquarius	Gemini	Cancer	11	25	2025	2400	
+9	5	9	10	Gemini	Aquarius	Gemini	Cancer	11	26	2025	2400	
+9	5	9	10	Gemini	Aquarius	Gemini	Cancer	11	27	2025	2400	
+9	5	9	10	Gemini	Aquarius	Gemini	Cancer	11	28	2025	2400	
+9	5	9	10	Gemini	Aquarius	Gemini	Cancer	11	29	2025	2400	
+9	5	9	10	Gemini	Aquarius	Gemini	Cancer	11	30	2025	424	
+9	5	9	11	Gemini	Aquarius	Gemini	Leo	11	30	2025	2036	
+9	5	9	11	Gemini	Aquarius	Gemini	Leo	12	1	2025	2400	
+9	5	9	11	Gemini	Aquarius	Gemini	Leo	12	2	2025	2400	
+9	5	9	11	Gemini	Aquarius	Gemini	Leo	12	3	2025	2400	
+9	5	9	11	Gemini	Aquarius	Gemini	Leo	12	4	2025	324	
+9	5	9	12	Gemini	Aquarius	Gemini	Virgo	12	4	2025	2136	
+9	5	9	12	Gemini	Aquarius	Gemini	Virgo	12	5	2025	2400	
+9	5	9	12	Gemini	Aquarius	Gemini	Virgo	12	6	2025	2400	
+9	5	9	12	Gemini	Aquarius	Gemini	Virgo	12	7	2025	2400	
+9	5	9	12	Gemini	Aquarius	Gemini	Virgo	12	8	2025	724	
+9	5	9	1	Gemini	Aquarius	Gemini	Libra	12	8	2025	1736	
+9	5	9	1	Gemini	Aquarius	Gemini	Libra	12	9	2025	2324	
+9	5	9	2	Gemini	Aquarius	Gemini	Scorpio	12	9	2025	136	
+9	5	9	2	Gemini	Aquarius	Gemini	Scorpio	12	10	2025	2400	
+9	5	9	2	Gemini	Aquarius	Gemini	Scorpio	12	11	2025	2400	
+9	5	9	2	Gemini	Aquarius	Gemini	Scorpio	12	12	2025	2400	
+9	5	9	2	Gemini	Aquarius	Gemini	Scorpio	12	13	2025	224	
+9	5	9	3	Gemini	Aquarius	Gemini	Sagittarius	12	13	2025	2236	
+9	5	9	3	Gemini	Aquarius	Gemini	Sagittarius	12	14	2025	2400	
+9	5	9	3	Gemini	Aquarius	Gemini	Sagittarius	12	15	2025	1424	
+9	5	9	4	Gemini	Aquarius	Gemini	Capricorn	12	15	2025	1036	
+9	5	9	4	Gemini	Aquarius	Gemini	Capricorn	12	16	2025	2400	
+9	5	9	4	Gemini	Aquarius	Gemini	Capricorn	12	17	2025	2400	
+9	5	9	4	Gemini	Aquarius	Gemini	Capricorn	12	18	2025	2400	
+9	5	9	4	Gemini	Aquarius	Gemini	Capricorn	12	19	2025	2400	
+9	5	9	4	Gemini	Aquarius	Gemini	Capricorn	12	20	2025	2400	
+9	5	9	4	Gemini	Aquarius	Gemini	Capricorn	12	21	2025	524	
+9	5	9	5	Gemini	Aquarius	Gemini	Aquarius	12	21	2025	1936	
+9	5	9	5	Gemini	Aquarius	Gemini	Aquarius	12	22	2025	2400	
+9	5	9	5	Gemini	Aquarius	Gemini	Aquarius	12	23	2025	2400	
+9	5	9	5	Gemini	Aquarius	Gemini	Aquarius	12	24	2025	2400	
+9	5	9	5	Gemini	Aquarius	Gemini	Aquarius	12	25	2025	2400	
+9	5	9	5	Gemini	Aquarius	Gemini	Aquarius	12	26	2025	2400	
+9	5	9	5	Gemini	Aquarius	Gemini	Aquarius	12	27	2025	1124	
+9	5	9	6	Gemini	Aquarius	Gemini	Pisces	12	27	2025	1336	
+9	5	9	6	Gemini	Aquarius	Gemini	Pisces	12	28	2025	2400	
+9	5	9	6	Gemini	Aquarius	Gemini	Pisces	12	29	2025	2324	
+9	5	9	7	Gemini	Aquarius	Gemini	Aries	12	29	2025	136	
+9	5	9	7	Gemini	Aquarius	Gemini	Aries	12	30	2025	2400	
+9	5	9	7	Gemini	Aquarius	Gemini	Aries	12	31	2025	2400	

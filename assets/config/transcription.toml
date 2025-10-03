@@ -1,0 +1,62 @@
+[transcription_variables]
+##################################################################
+# FILE PATHS
+##################################################################
+faster_whisper_base_path = "C:\\temp\\faster_whisper\\"
+faster_whisper_version = "v193.1"
+faster_whisper_binary_name = "faster-whisper-xxl.exe"
+faster_whisper_model_path = "C:\\temp\\faster_whisper\\_models"
+
+transcription_model = "large-v2" # What transcription model to use
+
+corpus_extensions = [".mp3", ".flac"]
+
+##################################################################
+# PRODUCTION PROCESSING PATHS
+##################################################################
+audio_file_directories_to_process = ["C:\\temp\\Audio Files"] # List of audio file directories to process
+transcription_output_path = "C:\\temp\\Transcriptions\\raw" # Original/raw transcription output directory / before search and replace is performed
+search_and_replace_transcription_output_path = "C:\\temp\\Transcriptions\\search_and_replaced" # Search and replace output directory / after search and replace is performed
+
+##################################################################
+
+##################################################################
+# List of audio file directories to ignore
+##################################################################
+audio_file_directories_to_ignore = [
+    "C:\\temp\\Audio Files\\original",
+]
+
+##################################################################
+# GPT4ALL SETTINGS
+##################################################################
+save_to_gpt4all_localdocs = "yes" # Save to GPT4ALL LocalDocs? Value is "yes"/"no"
+gpt4all_localdocs_path = "C:\\temp\\gpt4all_docs\\audio_journals"  # GPT4ALL LocalDocs path for audio journals
+
+##################################################################
+# Get file extensions of files you'd like to transcribe
+##################################################################
+file_extensions_to_transcribe = [
+    ".mkv",
+    ".mp4",
+    ".mp3",
+    ".mov",
+    ".m4a",
+    ".aac",
+    ".ogg",
+    ".flac",
+]
+
+[[transcription_variables.word_cloud_variables]]
+##################################################################
+# WORD CLOUD FOR COVER ART SETTINGS
+##################################################################
+top_n_words = 300  # Define how many words to use from the transcript to generate the word cloud image
+custom_stopwords = []  # Add your own stop words here
+
+##################################################################
+# SEARCH AND REPLACE PAIRS
+##################################################################
+[[transcription_variables.search_and_replace_pairs]]
+search = "<SEARCH TERM>"
+replace = "<REPLACE TERM>"
